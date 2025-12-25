@@ -21,11 +21,14 @@ In meiner Arbeit versuche ich, mit Daten Geschichten zu erzählen. Mich interess
 Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. Meine Arbeit wurde mit dem <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> und dem <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">Deutschen Preis für Lokaljournalismus</a> ausgezeichnet. 
 <br>
 <br>
-<b>Falls Lust hast zu quatschen, schick mir gerne eine Nachricht</b> 🌸 Ich wohne und arbeite in Berlin. Du erreichst mich via E-Mail an moritz.matzner@posteo.net. Eine verschlüsselte Nachricht kannst du mir auch über <a href="https://signal.org/de/">Signal</a> schicken. Mein Nutzername ist <code>moritz.620</code>. 
+<b>Falls Lust hast zu quatschen, schick mir gerne eine Nachricht</b> 🌸 Ich wohne und arbeite in Berlin. Du erreichst mich via E-Mail an moritz.matzner@posteo.net. Eine verschlüsselte Nachricht kannst du mir auch über <a href="https://signal.org/de/">Signal</a> schicken. Mein Nutzername ist moritz.620. 
 <br>
 <br>
 
 # Artikel
+<br>
+<br>
+
 **An der Grenze des Rechts**. Verstößt Europa in seinem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen  internationale Gerichte. Denn weder die EU-Kommission noch und ihre Grenzschützer von Frontex wurden jemals verurteilt. Um herauszufinden, wo die Grenze des Rechts verläuft, bin ich mit einem Flugzeug vor die Gewässer Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Ein Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
 
 ![Alt text for broken image link](assets/img/frontex_2.png)
@@ -113,6 +116,7 @@ If you are interested in my work you can reach me via E-Mail: moritzvalentinomat
 <br>
 <br>
 ## Work 
+
 ![Alt text for broken image link](assets/img/frontex_2.png)
 
 <b>Investigating Frontex legal responsibility in the Mediterranean</b>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central mediterranean. My narrative piece focussed on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
