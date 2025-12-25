@@ -3,45 +3,35 @@ layout: default
 ---
 # hi there 🌸 
 
-My name is Moritz Valentino Matzner, I am a (data) journalist based in Berlin. 
+My name is Moritz Valentino Matzner, I am a bilingual (data) journalist based in Berlin. 
 
-I am interested in the <b>political (economy) of data</b>, how data (science) can be used to uncover structural inequalities, and foreign policy. I also just love to tell stories. 
-
-I am currently an editorial trainee at the <a href="https://www.tagesspiegel.de/autoren/moritz-valentino-matzner">German daily Der Tagesspiegel </a>. 
-
-<!-- GERMAN SECTION STARTS-->
-
-<details>
-<summary> 
-<b>Deutsch</b>
-</summary> 
-In meiner Arbeit versuche ich, mit Daten Geschichten zu erzählen. Mich interessieren Fragen der politischen Ökonomie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? Außerdem interessiert mich, wie politische und ökonomische Fragen in Datensets eingeschrieben sind. 
-<br>
-<br>
-Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. Meine Arbeit wurde mit dem <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> und dem <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">Deutschen Preis für Lokaljournalismus</a> ausgezeichnet. 
-<br>
-<br>
-<b>Falls Lust hast zu quatschen, schick mir gerne eine Nachricht</b> 🌸 Ich wohne und arbeite in Berlin. Du erreichst mich via E-Mail an moritz.matzner@posteo.net. Eine verschlüsselte Nachricht kannst du mir auch über <a href="https://signal.org/de/">Signal</a> schicken. Mein Nutzername ist moritz.620. 
-<br>
+<b>I am interested in the political (economy) of data</b>, how data (science) can be used to uncover structural inequalities, and foreign policy. I also just love to tell stories, mainly in Deutsch. 
 <br>
 
-# Artikel
+As part of the Tagesspiegel Innovation Lab, my work has been recognized with a <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award for Local Reporting</a>. While interning at the non-profit newsroom CORRECTIV, I co-researched an article on children’s day care centers, which was named on of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> by the Global Investigative Journalism Network. In March 2026, I will complete my two year editorial traineeship at the German daily <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">Der Tagesspiegel</a>. 
 <br>
 <br>
+<b>Before turning to journalism,</b> I taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a> at FU Berlin. I hold a Master in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
+<br>
+<br>
+<b>If you are interested in my work</b> you can reach me via E-Mail: moritzvalentinomatzner@posteo.net. You can also send me an encrypted Message via [Signal](https://signal.org/de/): moritz.620.
+<br>
 
-**An der Grenze des Rechts**. Verstößt Europa in seinem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen  internationale Gerichte. Denn weder die EU-Kommission noch und ihre Grenzschützer von Frontex wurden jemals verurteilt. Um herauszufinden, wo die Grenze des Rechts verläuft, bin ich mit einem Flugzeug vor die Gewässer Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Ein Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
+<b>The follwing section will be in German</b>. If you prefer continuing in English, please [click here](#english).
 
+# big(ger) projects I am proud of 🦋
+
+<b>An der Grenze des Rechts</b>. Verstößt Europa in seinem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagt die EU - und internationale Gerichte. Denn weder die EU-Kommission noch und ihre Grenzschützer von Frontex wurden jemals verurteilt. Warum ist das so? Um das herauszufinden, bin ich mit einem Flugzeug vor die Gewässer Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Ein Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
 ![Alt text for broken image link](assets/img/frontex_2.png)
+
+<br>
+<br>
 
 **Berliner Bildungskrise: Die Klassenfrage. Tagesspiegel, August 2023**. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Screenshot vom Artikel. 
 ![Alt text for broken image link](assets/img/lehrkraefte.png)
 
----
-
 **Kitanotstand: Wie das System versagt. CORRECTIV.Lokal, November 2023.** Die deutschen Kitas stehen vor dem Zusammenbruch: Erzieherinnen vor dem Burnout, Schließungen durch Personalmangel – und Kinder, die nur verwahrt statt gefördert werden. Tausende Kita-Mitarbeitende berichten von ihren Erfahrungen. Mit einer Onlineplattform wurden tausende Kita-Mitarbeitende und Eltern befragt, welche Folgen der Personalmangel in Kitas für sie hat. Für diesen Artikel wurden alle 2.005 Antworten von Kita-Mitarbeitenden ausgewertet. Link zur [Recherche](https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/) und [Themenseite](https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/). Teil des Rechercheteams. No Paywall. Screenshot vom Artikel. 
 ![Alt text for broken image link](assets/img/kitas.png)
-
----
 
 **Demo Atlas. Tagesspiegel, Oktober 2023.** Ob Aufmarsch Hunderttausender oder Ein-Mann-Kundgebung: Im Schnitt gibt es täglich 16 Demos in Berlin. Wer demonstriert in Ihrer Nachbarschaft – und wofür? Die Transparenz-Initiative „FragDenStaat“ hat Daten zu Demonstrationen per Informationsfreiheitsanfrage von der Berliner Polizei erhalten. Das Tagesspiegel Innovation Lab hat sie ausgewertet und Berlins Protestlandschaft kartografiert. Link zur [Karte](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/) und [Analyse](https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/). Datenverarbeitung und -analyse. Keine Paywall. Screenshot vom Artikel. 
 
@@ -97,29 +87,13 @@ Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbe
 <br>
 
 <!-- English section starts -->
-<br>
-<br>
-</details>
-<details>
-<summary> 
-<b> English</b>
-</summary> 
-<br>
 
-My work has been recognized with a <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award of Local Reporting</a>. While at CORRECTIV, I co-researched an article on children’s day care centers, which was named on of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> by the Global Investigative Journalism Network. 
-<br>
-<br>
-I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. Before turning to journalism, I taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a> at FU Berlin. In March 2026, I will complete my two year editorial traineeship at the German daily Der Tagesspiegel. 
-<br>
-<br>
-If you are interested in my work you can reach me via E-Mail: moritzvalentinomatzner@posteo.net. You can also send me an encrypted Message via [Signal](https://signal.org/de/): moritz.620 
-<br>
-<br>
-## Work 
+# english 
+
+<b>Investigating Frontex legal responsibility in the Mediterranean</b>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central mediterranean. My narrative piece focussed on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
 
 ![Alt text for broken image link](assets/img/frontex_2.png)
 
-<b>Investigating Frontex legal responsibility in the Mediterranean</b>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central mediterranean. My narrative piece focussed on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
 <br>
 <b>Berlin's educational crisis</b>. Nearly three quarters of Berlin’s public schools are affected by teacher shortages. I collected and analyzed school-level data on teachers and students and demonstrated how attending school in certain districts reduces students’ chances of receiving an adequate education. The project combined data analysis with editorial storytelling, resulting in an <a href="https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/">Interactive map</a> and an in-depth <a href="https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/">longread</a>. In German.
 <br>
@@ -135,7 +109,3 @@ If you are interested in my work you can reach me via E-Mail: moritzvalentinomat
 ![Alt text for broken image link](assets/img/nkk.png)
 
 ---
-
-I also reported on 
-
-</details>
