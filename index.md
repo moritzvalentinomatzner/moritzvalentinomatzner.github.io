@@ -30,12 +30,12 @@ As part of the Tagesspiegel Innovation Lab, <span style="color: #C92BED; backgro
 <span style="color: #1F0BFB;background-color: #FAF9F6;">Before turning to journalism,</span> I worked as a research associate at FU Berlin for one semester and taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>. I hold a Master in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. I also attended the University of Chicago. 
 <br>
 
-<span style="color: #682BED;background-color: #FAF9F6;">If you are interested in my work</span> you can send me an e-Mail by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can also send me an encrypted Message via [Signal](https://signal.org/de/). My username is <span style="color: #C92BED;">moritz.620</span>.
+<span style="color: #682BED;background-color: #FAF9F6;">If you are interested in my work</span> you can send me an e-Mail by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can also send me an encrypted Message via [Signal](https://signal.org/de/) by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span style="color: #C92BED;">mvm.404</spa>.
 <br>
 
 <span style="color: #1F0BFB;background-color: #FAF9F6;">The follwing section will be in German</span>. If you want to read about my work in English, click [here](#english).
 
-# <span style="color: #682BED;">some big(ger) projects I am proud of 🦋
+# <span style="color: #682BED;">some projects I am proud of 🦋
 
 <span style="color: #C92BED;background-color: #FAF9F6;">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt Europa in seinem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagt die EU - und internationale Gerichte. Denn weder die EU-Kommission noch und ihre Grenzschützer von Frontex wurden jemals verurteilt. Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit einem Flugzeug an die Grenze Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Ein Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
 <br>
@@ -61,7 +61,7 @@ ein [US-Bundesstaaten Abschiebungen verhindern wollte](https://www.sueddeutsche.
 <br>
 
 # <span style="color: #C92BED;">lehre
-Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin gearbeitet, Otto-Suhr-Institut für Politikwissenschaft, Lehrstuhl Internationale und Vergleichende Politische Ökonomie. Dort habe ich einen Kurs zu [Kritischer Data Science gegeben](https://moritzvalentinomatzner.shinyapps.io/kdst/) gegeben. 
+Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin gearbeitet, Otto-Suhr-Institut für Politikwissenschaft, Lehrstuhl Internationale und Vergleichende Politische Ökonomie. Dort habe ich einen Kurs zu [Kritischer Data Science gegeben](https://moritzvalentinomatzner.shinyapps.io/kdst/). 
 
 <details>
 <summary> 
