@@ -115,10 +115,10 @@ Ich habe einen Master in _International Security_ von der Sciences Po Paris und 
 Während meinem MA-Studium war ich Stipendiat der Studienstiftung des deutschen Volkes und habe als SHK am  Wissenschaftszentrum Berlin an einem DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285) gearbeitet. 
 <br>
 
-Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Dort habe ich einen einen [Kurs zu Kritischer Data Science](#-Lehre-🌸) gegeben. 
+Im Wintersemester 2022/23 habe ich eine Elternzeitvertretung am Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft, FU Berlin übernommen. Im Rahmen meiner Anstellung habe ich einen [Kurs zu Kritischer Data Science](#-Lehre-🌸) unterrichtet. 
 <br>
 
-Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbeitet, den englischen Fernsehnachrichten der Deutschen Welle. Danach war ich freier Mitarbeiter beim [Tagesspiegel Innovation Lab](https://interaktiv.tagesspiegel.de/) und habe ein Praktikum bei [CORRECTIV.Lokal](https://correctiv.org/lokal/) absolviert. 
+Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbeitet, den englischen Fernsehnachrichten der Deutschen Welle. Danach war ich freier Mitarbeiter beim [Tagesspiegel Innovation Lab](https://interaktiv.tagesspiegel.de/) und habe ein Praktikum bei [CORRECTIV.Lokal](https://correctiv.org/lokal/) absolviert. Bis März 2026 absolviere ich ein Volontariat bei der Berliner Tageszeitung Der Tagesspiegel. 
 <br>
 
 <details>
