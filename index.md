@@ -8,16 +8,16 @@ My name is Moritz Valentino Matzner, I am a bilingual (data) journalist based in
 <span style="color: #682BED;">I am interested in the political (economy) of data</span>, how data (science) can be used to uncover structural inequalities, and foreign policy. I also just love to tell stories, mainly in Deutsch. 
 <br>
 
-As part of the Tagesspiegel Innovation Lab, my work has been recognized with a <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award for Local Reporting</a>. While interning at the non-profit newsroom CORRECTIV, I co-researched an article on children’s day care centers, which was named on of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> by the Global Investigative Journalism Network. In March 2026, I will complete my two year editorial traineeship at the German daily <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">Der Tagesspiegel</a>. 
+As part of the Tagesspiegel Innovation Lab, <span style="color: #C92BED;">my work has been recognized with</span> a <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award for Local Reporting</a>. While interning at the non-profit newsroom CORRECTIV, I co-researched an article on children’s day care centers, which was named on of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> by the Global Investigative Journalism Network. In March 2026, I will complete my two year editorial traineeship at the German daily <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">Der Tagesspiegel</a>. 
 <br>
 
-<span style="color: #C92BED;">Before turning to journalism,</span> I taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a> at Free University of Berlin. Mehr Informationen über den Kurs findet sich [hier](#lehre). I hold a Master in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
+<span style="color: #C92BED;">Before turning to journalism,</span> I was a research associate at FU Berlin and taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>. I hold a Master in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
 <br>
 <br>
 <span style="color: #ED2BB0;">If you are interested in my work</span> you can send me an e-Mail by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can also send me an encrypted Message via [Signal](https://signal.org/de/). My username is <span style="color: #C92BED;">moritz.620</span>.
 <br>
 
-<span style="color: #ED2B4F;">The follwing section will be in German</span>. If you prefer continuing in English, please [click here](#english).
+<span style="color: #ED2B82;">The follwing section will be in German</span>. If you prefer continuing in English, please [click here](#english).
 
 # <span style="color: #960BFB;">big(ger) projects I am proud of 🦋
 
