@@ -1,21 +1,22 @@
 ---
 layout: default
 ---
-
 # hi there 🌸 
----
+
+Test., My name is Moritz Valentino Matzner, I am a (data) journalist based in Berlin. I am interested in the <b>political (economy) of data </b>and how data (science) can be used to uncover structural inequalities. I also <b>love to tell stories</b>. 
+
+Before turning to journalism I had a brief stint as a reasearcher at the Free University of Berlin and taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. In March 2026, I will complete my two year editorial traineeship at the German daily Der Tagesspiegel. 
+<details>
+<summary> 
+<b>Deutsch</b>
+</summary> 
+<br>
 **Wie kann _Data Science_ genutzt werden, um strukturelle Ungleichheiten aufzudecken?** In meiner Arbeit versuche ich mithilfe von Daten Geschichten zu erzählen. Mich interessieren klassische Fragen der politischen Ökonomie und der Soziologie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? 
 
 Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. 
 
 Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel) an denen ich gerne gearbeitet habe, einen [unvollständigen Lebenslauf](#über-mich) und einen [Kurs zu Kritischer Data Science](#lehre), den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich [zu kontaktieren](#sag-hallo). Viel Spaß 👻
 
-<details>
-<summary> 
-<b>English Version</b>
-</summary> 
-<br>
-hi there. I am interested in the <b>political (economy) of data and how data (science) can be used to uncover structural inequalities</b>. Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
 <br>
 <br>
 <b>Some stories I published this year include</b>: 
