@@ -105,12 +105,13 @@ Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbe
 
 My work has been recognized with a <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award of Local Reporting</a>. While at CORRECTIV, I co-researched an article on children’s day care centers, which was named on of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> by the Global Investigative Journalism Network. 
 <br>
-
+<br>
 I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. Before turning to journalism, I taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a> at FU Berlin. In March 2026, I will complete my two year editorial traineeship at the German daily Der Tagesspiegel. 
 <br>
-
+<br>
 If you are interested in my work you can reach me via E-Mail: moritzvalentinomatzner@posteo.net. You can also send me an encrypted Message via [Signal](https://signal.org/de/): moritz.620 
-
+<br>
+<br>
 ## Work 
 ![Alt text for broken image link](assets/img/frontex_2.png)
 
