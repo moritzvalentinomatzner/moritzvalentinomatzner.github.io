@@ -2,15 +2,6 @@
 layout: default
 ---
 # hi there 🌸 
-
-My name is Moritz Valentino Matzner, I am a (data) journalist based in Berlin. I am interested in the <b>political (economy) of data</b>, how data (science) can be used to uncover structural inequalities, and foreign policy. I also love to tell stories. 
-
-My work has been recognized with a <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award of Local Reporting</a>. While at CORRECTIV, I co-researched an article on children’s day care centers, which was named on of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> by the Global Investigative Journalism Network. 
-
-
-I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. Before turning to journalism, I taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a> at FU Berlin. In March 2026, I will complete my two year editorial traineeship at the German daily Der Tagesspiegel. 
-
-
 <!-- GERMAN SECTION STARTS-->
 
 <details>
@@ -24,21 +15,6 @@ Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland.
 
 Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel) an denen ich gerne gearbeitet habe, einen [unvollständigen Lebenslauf](#über-mich) und einen [Kurs zu Kritischer Data Science](#lehre), den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich [zu kontaktieren](#sag-hallo). Viel Spaß 👻
 
-<br>
-<br>
-<b>Some stories I published this year include</b>: 
-<br>
-<br>
-<ul>
-<li><b>Berlin's Missing Teachers</b>. Berlin has an educational crisis. But are all students affected equally? I scraped data for public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods. <a href="https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/">Interactive map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/">longread</a>. In German. </li>
-<li><b>Kita Notstand</b>. Not only public schools, but also the German pre-school system is in crisis. According to a recent study, more than 380.000 spots are missing and the system is short of roughly 100.000 educators. We surveyed more than 6.800 teachers and parents. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>. In German. </li>
-<li><b>Demo Atlas</b>. We analyzed years and years of data on all demonstrations that took place in Berlin. <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">Map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. In German. </li>
-</ul>
-<br>
-Work with me 🌸 You can reach me at moritzvalentinomatzner@posteo.net.  
-
-<br>
-<br>
 
 # Artikel
 ---
@@ -171,24 +147,27 @@ Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.
 <b> English</b>
 </summary> 
 <br>
-<b>Wie kann Data Science genutzt werden, um strukturelle Ungleichheiten aufzudecken?</b> In meiner Arbeit versuche ich mithilfe von Daten Geschichten zu erzählen. Mich interessieren klassische Fragen der politischen Ökonomie und der Soziologie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? 
 
-Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. 
+I am interested in the <b>political (economy) of data</b>, how data (science) can be used to uncover structural inequalities, and foreign policy. I also love to tell stories. 
 
-Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel) an denen ich gerne gearbeitet habe, einen [unvollständigen Lebenslauf](#über-mich) und einen [Kurs zu Kritischer Data Science](#lehre), den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich [zu kontaktieren](#sag-hallo). Viel Spaß 👻
+My work has been recognized with a <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award of Local Reporting</a>. While at CORRECTIV, I co-researched an article on children’s day care centers, which was named on of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> by the Global Investigative Journalism Network. 
+
+
+I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. Before turning to journalism, I taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a> at FU Berlin. In March 2026, I will complete my two year editorial traineeship at the German daily Der Tagesspiegel. 
 
 <br>
 <br>
-<b>Some stories I published this year include</b>: 
+<b>Some stories I am proud of include</b>: 
 <br>
 <br>
-<ul>
-<li><b>Berlin's Missing Teachers</b>. Berlin has an educational crisis. But are all students affected equally? I scraped data for public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods. <a href="https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/">Interactive map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/">longread</a>. In German. </li>
-<li><b>Kita Notstand</b>. Not only public schools, but also the German pre-school system is in crisis. According to a recent study, more than 380.000 spots are missing and the system is short of roughly 100.000 educators. We surveyed more than 6.800 teachers and parents. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>. In German. </li>
-<li><b>Demo Atlas</b>. We analyzed years and years of data on all demonstrations that took place in Berlin. <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">Map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. In German. </li>
+<b>Berlin's Missing Teachers</b>. Berlin has an educational crisis. But are all students affected equally? I scraped data for public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods. <a href="https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/">Interactive map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/">longread</a>. In German.
+![Alt text for broken image link](assets/img/lehrkraefte.png)
+
+<b>Kita Notstand</b>. Not only public schools, but also the German pre-school system is in crisis. According to a recent study, more than 380.000 spots are missing and the system is short of roughly 100.000 educators. We surveyed more than 6.800 teachers and parents. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>. In German. 
+
+<b>Demo Atlas</b>. We analyzed years and years of data on all demonstrations that took place in Berlin. <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">Map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. In German.
 </ul>
 <br>
-Work with me 🌸 You can reach me at moritzvalentinomatzner@posteo.net.  
 
 <br>
 <br>
@@ -196,7 +175,7 @@ Work with me 🌸 You can reach me at moritzvalentinomatzner@posteo.net.
 # Artikel
 ---
 **Berliner Bildungskrise: Die Klassenfrage. Tagesspiegel, August 2023** Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Screenshot vom Artikel. 
-![Alt text for broken image link](assets/img/lehrkraefte.png)
+
 
 ---
 
