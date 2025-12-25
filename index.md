@@ -5,9 +5,7 @@ layout: default
 
 My name is Moritz Valentino Matzner, I am a (data) journalist based in Berlin. 
 
-I am interested in the <b>political (economy) of data</b>, how data (science) can be used to uncover structural inequalities, and foreign policy. I also love to tell stories. 
-
-My work has been recognized with a <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award of Local Reporting</a>. While at CORRECTIV, I co-researched an article on children’s day care centers, which was named on of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> by the Global Investigative Journalism Network. 
+I am interested in the <b>political (economy) of data</b>, how data (science) can be used to uncover structural inequalities, and foreign policy. I also just love to tell stories. 
 
 I am currently an editorial trainee at the <a href="https://www.tagesspiegel.de/autoren/moritz-valentino-matzner">German daily Der Tagesspiegel </a>. 
 
@@ -17,21 +15,22 @@ I am currently an editorial trainee at the <a href="https://www.tagesspiegel.de/
 <summary> 
 <b>Deutsch</b>
 </summary> 
-<br>
 In meiner Arbeit versuche ich, mit Daten Geschichten zu erzählen. Mich interessieren Fragen der politischen Ökonomie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? Außerdem interessiert mich, wie politische und ökonomische Fragen in Datensets eingeschrieben sind. 
-
-Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. 
-
-Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel) an denen ich gerne gearbeitet habe, einen [unvollständigen Lebenslauf](#über-mich) und einen [Kurs zu Kritischer Data Science](#lehre), den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich [zu kontaktieren](#sag-hallo). 
-
-Falls du meine Arbeit interessant findest, würde ich mich freuen, von dir zu hören 🌸 Ich wohne und arbeite in Berlin. 
-
-Schreib mir auf Deutsch, Englisch oder Italienisch via E-Mail an moritz.matzner@posteo.net. Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.org/de/) schicken. Mein Nutzername ist <code>moritz.620</code>. 
-
+<br>
+<br>
+Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. Meine Arbeit wurde mit dem <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> und dem <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">Deutschen Preis für Lokaljournalismus</a> ausgezeichnet. 
+<br>
+<br>
+<b>Falls Lust hast zu quatschen, schick mir gerne eine Nachricht</b> 🌸 Ich wohne und arbeite in Berlin. Du erreichst mich via E-Mail an moritz.matzner@posteo.net. Eine verschlüsselte Nachricht kannst du mir auch über <a href="https://signal.org/de/">Signal</a> schicken. Mein Nutzername ist <code>moritz.620</code>. 
+<br>
+<br>
 
 # Artikel
+**An der Grenze des Rechts**. Verstößt Europa in seinem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen  internationale Gerichte. Denn weder die EU-Kommission noch und ihre Grenzschützer von Frontex wurden jemals verurteilt. Um herauszufinden, wo die Grenze des Rechts verläuft, bin ich mit einem Flugzeug vor die Gewässer Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Ein Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
 
-**Berliner Bildungskrise: Die Klassenfrage. Tagesspiegel, August 2023** Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Screenshot vom Artikel. 
+![Alt text for broken image link](assets/img/frontex_2.png)
+
+**Berliner Bildungskrise: Die Klassenfrage. Tagesspiegel, August 2023**. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Screenshot vom Artikel. 
 ![Alt text for broken image link](assets/img/lehrkraefte.png)
 
 ---
@@ -104,12 +103,13 @@ Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbe
 </summary> 
 <br>
 
-I am interested in the <b>political (economy) of data</b>, how data (science) can be used to uncover structural inequalities, and foreign policy. I also love to tell stories. 
-<br>
 My work has been recognized with a <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award of Local Reporting</a>. While at CORRECTIV, I co-researched an article on children’s day care centers, which was named on of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> by the Global Investigative Journalism Network. 
-
 <br>
+
 I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. Before turning to journalism, I taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a> at FU Berlin. In March 2026, I will complete my two year editorial traineeship at the German daily Der Tagesspiegel. 
+<br>
+
+If you are interested in my work you can reach me via E-Mail: moritzvalentinomatzner@posteo.net. You can also send me an encrypted Message via [Signal](https://signal.org/de/): moritz.620 
 
 ## Work 
 ![Alt text for broken image link](assets/img/frontex_2.png)
@@ -129,8 +129,8 @@ I hold an MA in Political Science from FU Berlin and a MA in International Secur
 **Neukölln Complex**. For years, a series of far-right attacks rocked Berlin’s Neukölln district. The attacks include more than 70 criminal offenses, including 23 arson attacks and at least two murders carried out in public spaces. For many of those affected, it is clear that a far-right network—with alleged connections to police and judicial authorities—has obstructed a full investigation. Since 2022, the case has been examined by a parliamentary inquiry committee in the Berlin House of Representatives. The documentary has been in production since summer 2021 as part of a long-term documentary project. 
 ![Alt text for broken image link](assets/img/nkk.png)
 
-# say hallo
-If you are interested in my work you can reach me via E-Mail: moritzvalentinomatzner@posteo.net. You can also send me an encrypted Message via [Signal](https://signal.org/de/): moritz.620 
+---
 
-<br>
+I also reported on 
+
 </details>
