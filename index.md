@@ -17,8 +17,8 @@ I am currently an editorial trainee at the <a href="https://www.tagesspiegel.de/
 <summary> 
 <b>Deutsch</b>
 </summary> 
-
-In meiner Arbeit versuche ich, mit Daten Geschichten zu erzählen. Mich interessieren klassische Fragen der politischen Ökonomie und der Soziologie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? 
+<br>
+In meiner Arbeit versuche ich, mit Daten Geschichten zu erzählen. Mich interessieren Fragen der politischen Ökonomie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? Außerdem interessiert mich, wie politische und ökonomische Fragen in Datensets eingeschrieben sind. 
 
 Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. 
 
@@ -26,7 +26,7 @@ Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel) an denen ich
 
 Falls du meine Arbeit interessant findest, würde ich mich freuen, von dir zu hören 🌸 Ich wohne und arbeite in Berlin. 
 
-Schreib mir auf Deutsch, Englisch oder Italienisch via E-Mail an moritz.matzner@posteo.net. Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.org/de/) schicken. Mein Nutzername it moritz.620. 
+Schreib mir auf Deutsch, Englisch oder Italienisch via E-Mail an moritz.matzner@posteo.net. Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.org/de/) schicken. Mein Nutzername ist <code>moritz.620</code>. 
 
 
 # Artikel
