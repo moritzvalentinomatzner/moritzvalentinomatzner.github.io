@@ -44,23 +44,29 @@ My work is mainly in German. For an overview of my projects in English you can c
 <br>
 
 ![Alt text for broken image link](assets/img/frontex_4.png)
+
 --- 
 
 <span style="color: #1F0BFB;background-color: #FAF9F6;">Berliner Bildungskrise: Die Klassenfrage. Der Tagesspiegel, August 2023 bis Frühjahr 2025</span>. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Ich habe die Recherche auf der <a href="https://www.toepfer-stiftung.de/de/wie-wir-wirken/rueckblick/bildungswerkstatt-mit-correctiv-lokal">Bildungswerkstatt für Lokaljournalist*innen</a> der Toepfer Stiftung und Correctiv.Lokal im Berliner Publix vorgestellt.
 <br>
 
 ![Alt text for broken image link](assets/img/schule.png)
+
 --- 
 
 <span style="color: #682BED;background-color: #FAF9F6;">Kitanotstand: Wie das System versagt. CORRECTIV.Lokal. November 2023.</span> Die deutschen Kitas stehen vor dem Zusammenbruch: Erzieherinnen vor dem Burnout, Schließungen durch Personalmangel – und Kinder, die nur verwahrt statt gefördert werden. Tausende Kita-Mitarbeitende berichten von ihren Erfahrungen. Mit einer Onlineplattform wurden tausende Kita-Mitarbeitende und Eltern befragt, welche Folgen der Personalmangel in Kitas für sie hat. Für diesen Artikel wurden alle 2.005 Antworten von Kita-Mitarbeitenden ausgewertet. Link zur [Recherche](https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/) und [Themenseite](https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/). Teil des Rechercheteams. No Paywall.
 <br>
 
 ![Alt text for broken image link](assets/img/correctiv.png)
+
 --- 
+
 <span style="color: #C92BED;background-color: #FAF9F6;">Demo Atlas. Der Tagesspiegel. Oktober 2023.</span> Ob Aufmarsch Hunderttausender oder Ein-Mann-Kundgebung: Im Schnitt gibt es täglich 16 Demos in Berlin. Wer demonstriert in Ihrer Nachbarschaft – und wofür? Die Transparenz-Initiative „FragDenStaat“ hat Daten zu Demonstrationen per Informationsfreiheitsanfrage von der Berliner Polizei erhalten. Das Tagesspiegel Innovation Lab hat sie ausgewertet und Berlins Protestlandschaft kartografiert. Link zur [Karte](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/) und [Analyse](https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/). Datenverarbeitung und -analyse. Keine Paywall.
 <br>
 
 ![Alt text for broken image link](assets/img/demoatlas.png)
+
+---
 
 <span style="color: #1F0BFB;background-color: #FAF9F6;">Neukölln Komplex. Dokumentarfilm.</span> Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. Für viele Betroffene ist klar: Ein rechtes Netzwerk mit Verbindungen in Polizei und Justiz verhindert die Auflärung. Seit 2022 befasst sich mit mit dem Komplex ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
 
