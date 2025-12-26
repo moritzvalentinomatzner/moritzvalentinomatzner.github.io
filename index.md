@@ -36,6 +36,9 @@ As part of the Tagesspiegel Innovation Lab, <span style="color: #C92BED; backgro
 You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagram</a> and <a href="http://linkedin.com/in/moritzvalentino/">LinkedIn</a>. 
 
 # <span style="color: #682BED;">some projects I am proud of 🦋
+
+My work is mainly in German. For an overview of my projects in English you can click [here](#english). 
+
 --- 
 <span style="color: #C92BED;background-color: #FAF9F6;">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch und ihre Grenzschützer von Frontex wurden jemals verurteilt. Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit einem Flugzeug an die Grenze Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Ein Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
 <br>
