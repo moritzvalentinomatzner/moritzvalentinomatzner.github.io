@@ -43,26 +43,26 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 
 <details>
 <summary> 
-<span style="color: #682BED;">english version
+<span style="color: #682BED;">english version</span> 
 </summary> 
 <br>
 
 <span style="color: #682BED;background-color: #FAF9F6;">Investigating Frontex legal responsibility in the Mediterranean</span>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central mediterranean. My narrative piece focussed on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
 <br>
+
 </details>
 
 <br>
 
-![Alt text for broken image link](assets/img/frontex_4.png)
+![Alt text for broken image link](assets/img/frontex_5.png)
 
 --- 
 
-<span style="color: #682BED;background-color: #FAF9F6;">Tod aus Europa</span>. Mehr als 40.000 Menschen sterben in den Vereinigten Staaten jedes Jahr durch Schusswaffen – eine Tragödie, die für europäische Waffenkonzerne einen Milliardenmarkt bietet. Ein Team von Tagesspiegel und ZDF Magazin Royale hat Dokumente ausgewertet, Daten erhoben, Experten und Insider befragt und Überlebende von US-Massakern interviewt. Entstanden ist ein umfangreiches Dossier, das sich in acht Kapiteln dem US-Waffenkult und seinen europäischen Profiteuren widmet, eingeleitet durch eine visuell ansprechende grafische Aufbereitung der recherchierten Daten. Ausgezeichnet mit dem <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a>, Kategorie Information. Link zur <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">Recherche</a>. 
-
+<span style="color: #682BED;background-color: #FAF9F6;">Tod aus Europa. Der Tagesspiegel / ZDF Magazin Royale. Sommer 2023</span>. Mehr als 40.000 Menschen sterben in den Vereinigten Staaten jedes Jahr durch Schusswaffen – eine Tragödie, die für europäische Waffenkonzerne einen Milliardenmarkt bietet. Ein Team von Tagesspiegel und ZDF Magazin Royale hat Dokumente ausgewertet, Daten erhoben, Experten und Insider befragt und Überlebende von US-Massakern interviewt. Entstanden ist ein umfangreiches Dossier, das sich in acht Kapiteln dem US-Waffenkult und seinen europäischen Profiteuren widmet, eingeleitet durch eine visuell ansprechende grafische Aufbereitung der recherchierten Daten. Ausgezeichnet mit dem <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a>, Kategorie Information. Link zur <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">Recherche</a>. 
 <br>
 <details>
 <summary> 
-<span style="color: #682BED;">english version
+<span style="color: #682BED;">english version</span> 
 </summary> 
 <br>
 
@@ -73,7 +73,6 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 <br>
 
 ![Alt text for broken image link](assets/img/grimme.png)
-
 
 --- 
 
