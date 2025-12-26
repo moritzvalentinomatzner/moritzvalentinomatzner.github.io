@@ -37,17 +37,59 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 
 # <span style="color: #682BED;">some projects I am proud of 🦋
 
-My work is mainly in German. For an overview of my projects in English you can click [here](#english). 
-
 --- 
 <span style="color: #C92BED;background-color: #FAF9F6;">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch und ihre Grenzschützer von Frontex wurden jemals verurteilt. Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit einem Flugzeug an die Grenze Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Ein Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
+<br>
+
+<details>
+<summary> 
+<span style="color: #682BED;">english version
+</summary> 
+<br>
+
+<span style="color: #682BED;background-color: #FAF9F6;">Investigating Frontex legal responsibility in the Mediterranean</span>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central mediterranean. My narrative piece focussed on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
+<br>
+</details>
+
 <br>
 
 ![Alt text for broken image link](assets/img/frontex_4.png)
 
 --- 
 
+<span style="color: #682BED;background-color: #FAF9F6;">Tod aus Europa</span>. Mehr als 40.000 Menschen sterben in den Vereinigten Staaten jedes Jahr durch Schusswaffen – eine Tragödie, die für europäische Waffenkonzerne einen Milliardenmarkt bietet. Ein Team von Tagesspiegel und ZDF Magazin Royale hat Dokumente ausgewertet, Daten erhoben, Experten und Insider befragt und Überlebende von US-Massakern interviewt. Entstanden ist ein umfangreiches Dossier, das sich in acht Kapiteln dem US-Waffenkult und seinen europäischen Profiteuren widmet, eingeleitet durch eine visuell ansprechende grafische Aufbereitung der recherchierten Daten. Ausgezeichnet mit dem <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a>, Kategorie Information. Link zur <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">Recherche</a>. 
+
+<br>
+<details>
+<summary> 
+<span style="color: #682BED;">english version
+</summary> 
+<br>
+
+<span style="color: #1F0BFB;background-color: #FAF9F6;">European Weapons in the US</span>. More than 40,000 people die each year in the United States as a result of gun violence — a tragedy that represents a multibillion-dollar market for European arms manufacturers. A joint team from Der Tagesspiegel and ZDF Magazin Royale analyzed documents, collected data, interviewed experts and insiders, and spoke with survivors of mass shootings in the US. The result is an extensive dossier that explores the US gun culture and its European profiteers across eight chapters, introduced by a visually compelling, data-driven presentation of the investigation’s findings. Awarded the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> in the Information category. Link to the <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">investigation</a>.
+<br>
+</details>
+
+<br>
+
+![Alt text for broken image link](assets/img/grimme.png)
+
+
+--- 
+
 <span style="color: #1F0BFB;background-color: #FAF9F6;">Berliner Bildungskrise: Die Klassenfrage. Der Tagesspiegel, August 2023 bis Frühjahr 2025</span>. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Ich habe die Recherche auf der <a href="https://www.toepfer-stiftung.de/de/wie-wir-wirken/rueckblick/bildungswerkstatt-mit-correctiv-lokal">Bildungswerkstatt für Lokaljournalist*innen</a> der Toepfer Stiftung und Correctiv.Lokal im Berliner Publix vorgestellt.
+<br>
+<details>
+<summary> 
+<span style="color: #682BED;">english version
+</summary> 
+<br>
+
+<span style="color: #C92BED;background-color: #FAF9F6;">Berlin's educational crisis</span>. Nearly three quarters of Berlin’s public schools are affected by teacher shortages. I collected and analyzed school-level data on teachers and students and demonstrated how attending school in certain districts reduces students’ chances of receiving an adequate education. The project combined data analysis with editorial storytelling, resulting in an <a href="https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/">Interactive map</a> and an in-depth <a href="https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/">longread</a>. In German.
+<br>
+<br>
+</details>
+
 <br>
 
 ![Alt text for broken image link](assets/img/schule.png)
@@ -56,6 +98,17 @@ My work is mainly in German. For an overview of my projects in English you can c
 
 <span style="color: #682BED;background-color: #FAF9F6;">Kitanotstand: Wie das System versagt. CORRECTIV.Lokal. November 2023.</span> Die deutschen Kitas stehen vor dem Zusammenbruch: Erzieherinnen vor dem Burnout, Schließungen durch Personalmangel – und Kinder, die nur verwahrt statt gefördert werden. Tausende Kita-Mitarbeitende berichten von ihren Erfahrungen. Mit einer Onlineplattform wurden tausende Kita-Mitarbeitende und Eltern befragt, welche Folgen der Personalmangel in Kitas für sie hat. Für diesen Artikel wurden alle 2.005 Antworten von Kita-Mitarbeitenden ausgewertet. Link zur [Recherche](https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/) und [Themenseite](https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/). Teil des Rechercheteams. No Paywall.
 <br>
+<details>
+<summary> 
+<span style="color: #682BED;">english version
+</summary> 
+<br>
+
+<span style="color: #1F0BFB;background-color: #FAF9F6;">Kita Notstand</span>. Not only public schools, but also the German pre-school system is in crisis. According to a recent study, more than 380.000 spots are missing and the system is short of roughly 100.000 educators. We surveyed more than 6.800 teachers and parents. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>. In German. 
+<br>
+</details>
+
+<br>
 
 ![Alt text for broken image link](assets/img/correctiv.png)
 
@@ -63,12 +116,35 @@ My work is mainly in German. For an overview of my projects in English you can c
 
 <span style="color: #C92BED;background-color: #FAF9F6;">Demo Atlas. Der Tagesspiegel. Oktober 2023.</span> Ob Aufmarsch Hunderttausender oder Ein-Mann-Kundgebung: Im Schnitt gibt es täglich 16 Demos in Berlin. Wer demonstriert in Ihrer Nachbarschaft – und wofür? Die Transparenz-Initiative „FragDenStaat“ hat Daten zu Demonstrationen per Informationsfreiheitsanfrage von der Berliner Polizei erhalten. Das Tagesspiegel Innovation Lab hat sie ausgewertet und Berlins Protestlandschaft kartografiert. Link zur [Karte](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/) und [Analyse](https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/). Datenverarbeitung und -analyse. Keine Paywall.
 <br>
+<details>
+<summary> 
+<span style="color: #682BED;">english version
+</summary> 
+ <br>
+
+ <span style="color: #C92BED;background-color: #FAF9F6;">Demo Atlas. Der Tagesspiegel, October 2023.</span>
+Whether a march of hundreds of thousands or a one-person protest, on average there are 16 demonstrations per day in Berlin. Who is protesting in your neighborhood and what for?
+The transparency initiative FragDenStaat obtained demonstration data from the Berlin police through freedom of information requests. The Tagesspiegel Innovation Lab analyzed the data and mapped Berlin’s protest landscape.
+Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">interactive map</a> and the <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. Data processing and analysis. No paywall.
+</details>
+
+<br>
 
 ![Alt text for broken image link](assets/img/demoatlas.png)
 
 ---
 
 <span style="color: #1F0BFB;background-color: #FAF9F6;">Neukölln Komplex. Dokumentarfilm.</span> Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. Für viele Betroffene ist klar: Ein rechtes Netzwerk mit Verbindungen in Polizei und Justiz verhindert die Auflärung. Seit 2022 befasst sich mit mit dem Komplex ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
+<details>
+<summary> 
+<span style="color: #682BED;">english version
+</summary> 
+
+<span style="color: #682BED;background-color: #FAF9F6;">Neukölln Complex</span>. For years, a series of far-right attacks rocked Berlin’s Neukölln district. The attacks include more than 70 criminal offenses, including 23 arson attacks and at least two murders carried out in public spaces. For many of those affected, it is clear that a far-right network—with alleged connections to police and judicial authorities—has obstructed a full investigation. Since 2022, the case has been examined by a parliamentary inquiry committee in the Berlin House of Representatives. The film has been in production since summer 2021 as part of a long-term documentary project.  
+<br>
+</details>
+
+<br>
 
 ![Alt text for broken image link](assets/img/nkk.png)
 
@@ -80,37 +156,39 @@ ein [US-Bundesstaaten Abschiebungen verhindern wollte](https://www.sueddeutsche.
 <br>
 
 # <span style="color: #C92BED;">lehre
-Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin gearbeitet, Otto-Suhr-Institut für Politikwissenschaft, Lehrstuhl Internationale und Vergleichende Politische Ökonomie. Dort habe ich einen Kurs zu [Kritischer Data Science gegeben](https://moritzvalentinomatzner.shinyapps.io/kdst/). 
-
+In the winter semester of 2022/23, I worked as a research associate at Freie Universität Berlin, at the Otto Suhr Institute for Political Science, Chair of International Political Economy. I taught a course on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>.
 <details>
 <summary> 
-<b>Kursinfo</b>
+<span style="color: #C92BED;">kursinfo
 </summary> 
 <br>
 
-<b>Leitfragen</b>. Wie kann quantitative Datenarbeit für emanzipatorische Wissenschaft genutzt werden? Was sind die Rahmenbedingungen für eine kritische Auseinandersetzung mit Daten und quantitativen Methoden?
+<span style="color: #682BED; background-color: #FAF9F6;">Wie kann quantitative Datenarbeit für emanzipatorische Wissenschaft genutzt werden? </span>Unter welchen Bedingungen ist eine kritische Auseinandersetzung mit Daten und quantitativen Methoden möglich?
 <br>
 
-<b>Der Kurs Kritische Data Science</b> macht Studierende mit Grundkenntnissen des Programmierens und dem Sammeln, Visualisieren und Analysieren von Daten in der Scriptsprache R vertraut. Doch das Sammeln und Analysieren von Daten ist intim mit einer Geschichte von Diskrimierung, Ausbeutung und Unterdrückung verwoben. Es ist und war vor allem ein Instrument der Mächtigen: Weiße Kolonialisten, welche die Produktivität versklavter Menschen überwachten. Polizeien, welche mithilfe von Algorithmen Unterdrückungsdynamiken verstärken. Daten sind Macht. Und deswegen widmet sich der Kurs auch einer Analyse von Macht: Wer zieht die Linie zwischen Information und Datenpunkt? Welche Perspektiven und politischen Grundsätze sind in Daten eingeschrieben? Wer produziert Daten über wen? 
-
+Der Kurs Kritische Data Science vermittelt Grundkenntnisse des Programmierens sowie des Sammelns, Visualisierens und Analysierens von Daten in der Skriptsprache R. Zugleich thematisiert er die politische Geschichte quantitativer Methoden: Datenarbeit ist eng mit Macht, Diskriminierung und Herrschaft verwoben und wurde historisch vor allem als Instrument der Mächtigen eingesetzt.
 <br>
-<br>
-<b>Der Kurs hinterfragt die sozialen Beziehungen, welche in Daten und computergestützten Methoden der Analyse eingeschrieben sind</b> durch eine intersektionale, machtkritische Linse. Und versucht Antworten darauf zu geben, wie Daten aus einer emanzipatorischen Perspektive genutzt werden können. Dabei widmet sich der Kurs akademischer Literatur aber auch Projekten aus dem journalistischen, künstlerischen und aktivistischen Kontext: Bereits 1895 sammelte die schwarze Datenjournalistin und Aktivistin Ida B. Wells einen Datensatz über Lynchungen schwarzer Menschen in den USA. Der Datensatz, ergänzt mit Erzählungen zu den Morden konstruiert einen datengestützten Gegennarrative. Das umfassenste Archiv von Femiziden in Mexiko stellt nicht die Regierung bereit, sondern die Aktivistin María Salguero aka Princesa. Und 2020 sammeln Aktivist:innen von Peng! und der ISD Daten zum kolonialen Vermächtnis deutscher Straßennamen, um ein “umerinnern” zu bewirken.
 
+Aus einer intersektionalen, machtkritischen Perspektive untersucht der Kurs, welche sozialen Beziehungen und politischen Annahmen in Daten eingeschrieben sind, wer Daten über wen produziert – und wie Daten aus einer emanzipatorischen Perspektive genutzt werden können. Neben akademischer Literatur werden auch journalistische, künstlerische und aktivistische Projekte einbezogen.
 </details>
 
 <br>
-<!-- English section starts -->
 
-# <span style="color: #1F0BFB;">english
+<details>
+<summary> 
+<span style="color: #682BED;">english version
+</summary> 
+<br>
+<span style="color: #682BED; background-color: #FAF9F6;">How can quantitative data work be used for emancipatory scholarship?</span> What conditions are necessary for a critical engagement with data and quantitative methods?
 
-<span style="color: #682BED;background-color: #FAF9F6;">Investigating Frontex legal responsibility in the Mediterranean</span>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central mediterranean. My narrative piece focussed on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
 <br>
 
-<span style="color: #C92BED;background-color: #FAF9F6;">Berlin's educational crisis</span>. Nearly three quarters of Berlin’s public schools are affected by teacher shortages. I collected and analyzed school-level data on teachers and students and demonstrated how attending school in certain districts reduces students’ chances of receiving an adequate education. The project combined data analysis with editorial storytelling, resulting in an <a href="https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/">Interactive map</a> and an in-depth <a href="https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/">longread</a>. In German.
+This course is divided into two parts. In the first, students acquire basic programming skills in R and learn the collection, visualization, and analysis of data using the programming language R.
 <br>
 
-<span style="color: #1F0BFB;background-color: #FAF9F6;">Kita Notstand</span>. Not only public schools, but also the German pre-school system is in crisis. According to a recent study, more than 380.000 spots are missing and the system is short of roughly 100.000 educators. We surveyed more than 6.800 teachers and parents. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>. In German. 
+The second part focuses on the political economy of data. It examines how data practices are historically and politically entangled with power, inequality, and exclusion, and how quantitative methods have been used to govern, classify, and control. Through an intersectional, power-critical lens, the course asks whose perspectives are inscribed in data, who produces data about whom, and how data can be mobilized for emancipatory purposes. Alongside academic literature, the course engages with examples from journalism, activism, and the arts.
 <br>
+</details>
 
-<span style="color: #682BED;background-color: #FAF9F6;">Neukölln Complex</span>. For years, a series of far-right attacks rocked Berlin’s Neukölln district. The attacks include more than 70 criminal offenses, including 23 arson attacks and at least two murders carried out in public spaces. For many of those affected, it is clear that a far-right network—with alleged connections to police and judicial authorities—has obstructed a full investigation. Since 2022, the case has been examined by a parliamentary inquiry committee in the Berlin House of Representatives. The film has been in production since summer 2021 as part of a long-term documentary project. 
+
+
