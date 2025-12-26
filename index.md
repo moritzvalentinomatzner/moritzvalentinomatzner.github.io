@@ -80,7 +80,7 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 <br>
 <details>
 <summary> 
-<span style="color: #682BED;">english version
+<span style="color: #682BED;">english version</span> 
 </summary> 
 <br>
 
@@ -99,7 +99,7 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 <br>
 <details>
 <summary> 
-<span style="color: #682BED;">english version
+<span style="color: #682BED;">english version</span> 
 </summary> 
 <br>
 
@@ -117,7 +117,7 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 <br>
 <details>
 <summary> 
-<span style="color: #682BED;">english version
+<span style="color: #682BED;">english version</span> 
 </summary> 
  <br>
 
@@ -136,7 +136,7 @@ Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-w
 <span style="color: #1F0BFB;background-color: #FAF9F6;">Neukölln Komplex. Dokumentarfilm.</span> Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. Für viele Betroffene ist klar: Ein rechtes Netzwerk mit Verbindungen in Polizei und Justiz verhindert die Auflärung. Seit 2022 befasst sich mit mit dem Komplex ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
 <details>
 <summary> 
-<span style="color: #682BED;">english version
+<span style="color: #682BED;">english version</span> 
 </summary> 
 
 <span style="color: #682BED;background-color: #FAF9F6;">Neukölln Complex</span>. For years, a series of far-right attacks rocked Berlin’s Neukölln district. The attacks include more than 70 criminal offenses, including 23 arson attacks and at least two murders carried out in public spaces. For many of those affected, it is clear that a far-right network—with alleged connections to police and judicial authorities—has obstructed a full investigation. Since 2022, the case has been examined by a parliamentary inquiry committee in the Berlin House of Representatives. The film has been in production since summer 2021 as part of a long-term documentary project.  
