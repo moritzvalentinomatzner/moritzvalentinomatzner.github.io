@@ -52,8 +52,6 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 
 </details>
 
-<br>
-
 ![Alt text for broken image link](assets/img/frontex_5.png)
 
 --- 
@@ -69,8 +67,6 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 <span style="color: #1F0BFB;background-color: #FAF9F6;">European Weapons in the US</span>. More than 40,000 people die each year in the United States as a result of gun violence — a tragedy that represents a multibillion-dollar market for European arms manufacturers. A joint team from Der Tagesspiegel and ZDF Magazin Royale analyzed documents, collected data, interviewed experts and insiders, and spoke with survivors of mass shootings in the US. The result is an extensive dossier that explores the US gun culture and its European profiteers across eight chapters, introduced by a visually compelling, data-driven presentation of the investigation’s findings. Awarded the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> in the Information category. Link to the <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">investigation</a>.
 <br>
 </details>
-
-<br>
 
 ![Alt text for broken image link](assets/img/grimme.png)
 
@@ -89,8 +85,6 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 <br>
 </details>
 
-<br>
-
 ![Alt text for broken image link](assets/img/schule.png)
 
 --- 
@@ -106,8 +100,6 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 <span style="color: #1F0BFB;background-color: #FAF9F6;">Kita Notstand</span>. Not only public schools, but also the German pre-school system is in crisis. According to a recent study, more than 380.000 spots are missing and the system is short of roughly 100.000 educators. We surveyed more than 6.800 teachers and parents. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>. In German. 
 <br>
 </details>
-
-<br>
 
 ![Alt text for broken image link](assets/img/correctiv.png)
 
@@ -127,8 +119,6 @@ The transparency initiative FragDenStaat obtained demonstration data from the Be
 Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">interactive map</a> and the <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. Data processing and analysis. No paywall.
 </details>
 
-<br>
-
 ![Alt text for broken image link](assets/img/demoatlas.png)
 
 ---
@@ -143,8 +133,6 @@ Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-w
 <br>
 </details>
 
-<br>
-
 ![Alt text for broken image link](assets/img/nkk.png)
 
 ---
@@ -158,7 +146,7 @@ ein [US-Bundesstaaten Abschiebungen verhindern wollte](https://www.sueddeutsche.
 In the winter semester of 2022/23, I worked as a research associate at Freie Universität Berlin, at the Otto Suhr Institute for Political Science, Chair of International Political Economy. I taught a course on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>.
 <details>
 <summary> 
-<span style="color: #C92BED;">kursinfo
+<span style="color: #C92BED;">kursinfo</span> 
 </summary> 
 <br>
 
@@ -175,7 +163,7 @@ Aus einer intersektionalen, machtkritischen Perspektive untersucht der Kurs, wel
 
 <details>
 <summary> 
-<span style="color: #682BED;">english version
+<span style="color: #682BED;">english version</span> 
 </summary> 
 <br>
 <span style="color: #682BED; background-color: #FAF9F6;">How can quantitative data work be used for emancipatory scholarship?</span> What conditions are necessary for a critical engagement with data and quantitative methods?
