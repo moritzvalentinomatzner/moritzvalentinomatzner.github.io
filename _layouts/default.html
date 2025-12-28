@@ -27,7 +27,7 @@
 
       </section>
       <footer>
-        <p> moritz.matzner@posteo.net | signal: mvm.404 </p>
+        <p> Contact me via <a href="mailto:moritzvalentinomatzner@posteo.net">E-Mail</a> or <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">encrypted Signal message</a></p>
         <p> </p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
@@ -35,6 +35,11 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script>
       document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll('a[href^="http"]').forEach(function (link) {
+          link.setAttribute("target", "_blank");
+          link.setAttribute("rel", "noopener noreferrer");
+        });
+
         document.querySelectorAll("[data-tabs]").forEach(function (tabs) {
           var buttons = tabs.querySelectorAll('[role="tab"]');
           var panels = tabs.querySelectorAll('[role="tabpanel"]');

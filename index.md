@@ -7,7 +7,7 @@ Hi there 🌸 My name is Moritz Valentino Matzner. I am a (data) journalist base
 
 <span class="hl-purple">I am interested in the political economy of data and in foreign policy</span>. My work focuses on stories that investigate the structural sources of inequality and broaden our imagination of what is politically feasible. 
 
-Methodologically, I <span class="hl-blue">combine quantitative analysis with reporting</span>, using data to contextualize and interrogate anecdotal evidence.
+Methodologically, I often <span class="hl-blue">combine quantitative analysis with reporting</span>, using data to contextualize and interrogate anecdotal evidence.
 <div class="tabs" data-tabs>
   <div class="tablist" role="tablist" aria-label="Sections">
     <button class="tab-btn" type="button" role="tab" id="tab-about-btn" aria-controls="tab-about" aria-selected="true">About</button>
@@ -27,7 +27,7 @@ In March 2026, I will complete my <span class="hl-purple">two-year editorial tra
 I hold a <span class="hl-pink">Master in Political Science</span> from Freie Universität Berlin and a Masters in <span class="hl-pink">International Security</span> from Sciences Po Paris. I also attended the University of Chicago.
 <br>
 
-<span class="hl-purple">If you are interested in my work</span>, you can contact me via email by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can reach me via encrypted Signal message by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span class="text-pink">mvm.404</span>. 
+<span class="hl-purple">I am always interested in meeting new people.</span> You can contact me via email by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can reach me via encrypted Signal message by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span class="text-pink">mvm.404</span>. 
 <br>
 
 You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagram</a> and <a href="http://linkedin.com/in/moritzvalentino/">LinkedIn</a>. 
@@ -38,7 +38,9 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 
 Here you can find a <span class="hl-blue">selection of projects I enjoyed working on</span>. I mainly write in Deutsch but am keen to expand my work in English.
  
-<span class="hl-pink">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch ihre Grenzschützer von Frontex wurden jemals verurteilt. Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit einem Flugzeug an die Grenze Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Eine Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
+<span class="hl-pink">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch ihre Grenzschützer von Frontex wurden jemals verurteilt. 
+
+Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit einem Flugzeug an die Grenze Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Eine Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
 <br>
 
 <details>
@@ -47,7 +49,9 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 </summary> 
 <br>
 
-<span class="hl-purple">Investigating Frontex legal responsibility in the Mediterranean</span>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central Mediterranean. My narrative piece focused on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
+<span class="hl-purple">Investigating Frontex legal responsibility in the Mediterranean</span>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central Mediterranean. 
+
+My narrative piece focused on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
 <br>
 
 </details>
@@ -56,7 +60,9 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 
 --- 
 
-<span class="hl-purple">Tod aus Europa. Der Tagesspiegel / ZDF Magazin Royale. Sommer 2023</span>. Mehr als 40.000 Menschen sterben in den Vereinigten Staaten jedes Jahr durch Schusswaffen – eine Tragödie, die für europäische Waffenkonzerne einen Milliardenmarkt bietet. Ein Team von Tagesspiegel und ZDF Magazin Royale hat Dokumente ausgewertet, Daten erhoben, Experten und Insider befragt und Überlebende von US-Massakern interviewt. Entstanden ist ein umfangreiches Dossier, das sich in acht Kapiteln dem US-Waffenkult und seinen europäischen Profiteuren widmet, eingeleitet durch eine visuell ansprechende grafische Aufbereitung der recherchierten Daten. Ausgezeichnet mit dem <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a>, Kategorie Information. Link zur <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">Recherche</a>. 
+<span class="hl-purple">Tod aus Europa. Der Tagesspiegel / ZDF Magazin Royale. Sommer 2023</span>. Mehr als 40.000 Menschen sterben in den Vereinigten Staaten jedes Jahr durch Schusswaffen – eine Tragödie, die für europäische Waffenkonzerne einen Milliardenmarkt bietet. Ein Team von Tagesspiegel und ZDF Magazin Royale hat Dokumente ausgewertet, Daten erhoben, Experten und Insider befragt und Überlebende von US-Massakern interviewt.
+
+Entstanden ist ein umfangreiches Dossier, das sich in acht Kapiteln dem US-Waffenkult und seinen europäischen Profiteuren widmet, eingeleitet durch eine visuell ansprechende grafische Aufbereitung der recherchierten Daten. Ausgezeichnet mit dem <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Award Online</a>, Kategorie Information. Link zur <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">Recherche</a>. 
 <br>
 <details>
 <summary> 
@@ -72,7 +78,11 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 
 --- 
 
-<span class="hl-blue">Berliner Bildungskrise: Die Klassenfrage. Der Tagesspiegel, August 2023 bis Frühjahr 2025</span>. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule muss, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Ich habe die Recherche auf der <a href="https://www.toepfer-stiftung.de/de/wie-wir-wirken/rueckblick/bildungswerkstatt-mit-correctiv-lokal">Bildungswerkstatt für Lokaljournalist*innen</a> der Toepfer Stiftung und Correctiv.Lokal im Berliner Publix vorgestellt.
+<span class="hl-blue">Berliner Bildungskrise: Die Klassenfrage. Der Tagesspiegel, August 2023 bis Frühjahr 2025</span>. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten?
+
+Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule muss, hat schlechtere Chancen auf eine vernünftige Ausbildung. 
+
+Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. 2025 habe ich die Recherche auf der <a href="https://www.toepfer-stiftung.de/de/wie-wir-wirken/rueckblick/bildungswerkstatt-mit-correctiv-lokal">Bildungswerkstatt für Lokaljournalist*innen</a> der Toepfer Stiftung und Correctiv.Lokal im Berliner Publix vorgestellt.
 <br>
 <details>
 <summary> 
@@ -89,7 +99,9 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 
 --- 
 
-<span class="hl-purple">Kitanotstand: Wie das System versagt. CORRECTIV.Lokal. November 2023.</span> Die deutschen Kitas stehen vor dem Zusammenbruch: Erzieherinnen vor dem Burnout, Schließungen durch Personalmangel – und Kinder, die nur verwahrt statt gefördert werden. Tausende Kita-Mitarbeitende berichten von ihren Erfahrungen. Mit einer Onlineplattform wurden tausende Kita-Mitarbeitende und Eltern befragt, welche Folgen der Personalmangel in Kitas für sie hat. Für diesen Artikel wurden alle 2.005 Antworten von Kita-Mitarbeitenden ausgewertet. Link zur [Recherche](https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/) und [Themenseite](https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/). Teil des Rechercheteams. No Paywall.
+<span class="hl-purple">Kitanotstand: Wie das System versagt. CORRECTIV.Lokal. November 2023.</span> Die deutschen Kitas stehen vor dem Zusammenbruch: Erzieherinnen vor dem Burnout, Schließungen durch Personalmangel – und Kinder, die nur verwahrt statt gefördert werden. Tausende Kita-Mitarbeitende berichten von ihren Erfahrungen. 
+
+Mit einer Onlineplattform wurden tausende Kita-Mitarbeitende und Eltern befragt, welche Folgen der Personalmangel in Kitas für sie hat. Für diesen Artikel wurden alle 2.005 Antworten von Kita-Mitarbeitenden ausgewertet. Link zur [Recherche](https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/) und [Themenseite](https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/). Teil des Rechercheteams. No Paywall.
 <br>
 <details>
 <summary> 
@@ -105,7 +117,9 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 
 --- 
 
-<span class="hl-pink">Demo Atlas. Der Tagesspiegel. Oktober 2023.</span> Ob Aufmarsch Hunderttausender oder Ein-Mann-Kundgebung: Im Schnitt gibt es täglich 16 Demos in Berlin. Wer demonstriert in Ihrer Nachbarschaft – und wofür? Die Transparenz-Initiative „FragDenStaat“ hat Daten zu Demonstrationen per Informationsfreiheitsanfrage von der Berliner Polizei erhalten. Das Tagesspiegel Innovation Lab hat sie ausgewertet und Berlins Protestlandschaft kartografiert. Link zur [Karte](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/) und [Analyse](https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/). Datenverarbeitung und -analyse. Keine Paywall.
+<span class="hl-pink">Demo Atlas. Der Tagesspiegel. Oktober 2023.</span> Ob Aufmarsch Hunderttausender oder Ein-Mann-Kundgebung: Im Schnitt gibt es täglich 16 Demos in Berlin. Wer demonstriert in Ihrer Nachbarschaft – und wofür? 
+
+Die Transparenz-Initiative „FragDenStaat“ hat Daten zu Demonstrationen per Informationsfreiheitsanfrage von der Berliner Polizei erhalten. Das Tagesspiegel Innovation Lab hat sie ausgewertet und Berlins Protestlandschaft kartografiert. Link zur [Karte](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/) und [Analyse](https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/). Datenverarbeitung und -analyse. Keine Paywall.
 <br>
 <details>
 <summary> 
@@ -123,7 +137,9 @@ Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-w
 
 ---
 
-<span class="hl-blue">Neukölln Komplex. Dokumentarfilm.</span> Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. Für viele Betroffene ist klar: Ein rechtes Netzwerk mit Verbindungen in Polizei und Justiz verhindert die Aufklärung. Seit 2022 befasst sich mit dem Komplex ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
+<span class="hl-blue">Neukölln Komplex. Dokumentarfilm.</span> Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. 
+
+Seit 2022 befasst sich ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus mit der Anschlagsserie. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
 <details>
 <summary> 
 <span class="text-purple">english</span> 
