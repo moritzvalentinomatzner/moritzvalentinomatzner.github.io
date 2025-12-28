@@ -8,21 +8,25 @@
   --mv-purple: #682BED;
   --mv-pink: #C92BED;
   --mv-highlight: #FAF9F6;
-  --mv-link: #EDC92B;
-  --mv-link-hover: blue;
-  --mv-link-hover-bg: lightpink;
+  --mv-link-hover-bg: var(--mv-highlight);
 }
 
-a {
-  color: var(--mv-link);
-  text-decoration: underline;
-  text-decoration-thickness: 0.01px;
+.wrapper a,
+.wrapper a:link,
+.wrapper a:visited,
+.wrapper a:hover,
+.wrapper a:active {
+  color: inherit;
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px;
   text-underline-offset: 3px;
+}
+
+.wrapper a {
   transition: color 0.2s ease, background-color 0.2s ease;
 }
 
-a:hover {
-  color: var(--mv-link-hover);
+.wrapper a:hover {
   background-color: var(--mv-link-hover-bg);
 }
 
@@ -43,4 +47,38 @@ a:hover {
 .hl-pink {
   color: var(--mv-pink);
   background-color: var(--mv-highlight);
+}
+
+.tabs {
+  margin-top: 24px;
+}
+
+.tablist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 16px;
+  position: sticky;
+  top: 0;
+  background: #fff;
+  z-index: 2;
+  padding-top: 8px;
+}
+
+.tab-btn {
+  appearance: none;
+  background: none;
+  border: 0;
+  padding: 8px 6px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.tab-btn[aria-selected="true"] {
+  border-bottom: 2px solid currentColor;
+}
+
+.tab-panel[hidden] {
+  display: none;
 }

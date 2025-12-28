@@ -2,17 +2,26 @@
 layout: default
 ---
 
-# <span class="text-blue">hi there 🌸</span>
+<a id="top"></a>
 
 My name is Moritz Valentino Matzner. I am a (data) journalist based in Berlin.
 
 <span class="hl-purple">I am interested in the political economy of data and in foreign policy</span>. My work focuses on stories that investigate the structural sources of inequality and broaden our imagination of what is politically feasible. Methodologically, I combine quantitative analysis with reporting, using data to contextualize and interrogate anecdotal evidence.
 <br>
 
+<div class="tabs" data-tabs>
+  <div class="tablist" role="tablist" aria-label="Sections">
+    <button class="tab-btn" type="button" role="tab" id="tab-about-btn" aria-controls="tab-about" aria-selected="true">About</button>
+    <button class="tab-btn" type="button" role="tab" id="tab-projects-btn" aria-controls="tab-projects" aria-selected="false">Projects</button>
+    <button class="tab-btn" type="button" role="tab" id="tab-teaching-btn" aria-controls="tab-teaching" aria-selected="false">Teaching</button>
+  </div>
+
+  <div class="tab-panel" role="tabpanel" id="tab-about" aria-labelledby="tab-about-btn" markdown="1">
+
 As part of the Tagesspiegel Innovation Lab, <span class="hl-pink">my work has been recognized with</span> the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award for Local Reporting</a>. An investigation I co-researched was named one of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> in 2023 by the Global Investigative Journalism Network (GIJN). In March 2026, I will complete my two-year editorial traineeship at the German daily <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">Der Tagesspiegel</a>.
 <br>
 
-<span class="hl-blue">Before turning to journalism,</span> I worked as a research associate at Freie Universität Berlin and taught a course on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>. I hold a Master’s degree in Political Science from Freie Universität Berlin and an MA in International Security from Sciences Po Paris. I also studied at the University of Chicago.
+<span class="hl-blue">Before turning to journalism,</span> I worked as a research associate at Freie Universität Berlin and taught a course on Critical Data Science. I hold a Master’s degree in Political Science from Freie Universität Berlin and an MA in International Security from Sciences Po Paris. I also studied at the University of Chicago.
 <br>
 
 <span class="hl-purple">If you are interested in my work</span>, you can contact me via email by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can also reach me via encrypted Signal message by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span class="text-pink">mvm.404</span>. 
@@ -20,10 +29,11 @@ As part of the Tagesspiegel Innovation Lab, <span class="hl-pink">my work has be
 
 You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagram</a> and <a href="http://linkedin.com/in/moritzvalentino/">LinkedIn</a>. 
 
-# <span class="text-purple">some projects I am proud of 🦋</span>
+  </div>
 
---- 
-<span class="hl-pink">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch und ihre Grenzschützer von Frontex wurden jemals verurteilt. Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit einem Flugzeug an die Grenze Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Ein Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
+  <div class="tab-panel" role="tabpanel" id="tab-projects" aria-labelledby="tab-projects-btn" hidden markdown="1">
+
+<span class="hl-pink">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch ihre Grenzschützer von Frontex wurden jemals verurteilt. Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit einem Flugzeug an die Grenze Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Eine Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
 <br>
 
 <details>
@@ -32,7 +42,7 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 </summary> 
 <br>
 
-<span class="hl-purple">Investigating Frontex legal responsibility in the Mediterranean</span>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central mediterranean. My narrative piece focussed on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
+<span class="hl-purple">Investigating Frontex legal responsibility in the Mediterranean</span>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central Mediterranean. My narrative piece focused on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread in German</a>.  
 <br>
 
 </details>
@@ -57,7 +67,7 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 
 --- 
 
-<span class="hl-blue">Berliner Bildungskrise: Die Klassenfrage. Der Tagesspiegel, August 2023 bis Frühjahr 2025</span>. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Ich habe die Recherche auf der <a href="https://www.toepfer-stiftung.de/de/wie-wir-wirken/rueckblick/bildungswerkstatt-mit-correctiv-lokal">Bildungswerkstatt für Lokaljournalist*innen</a> der Toepfer Stiftung und Correctiv.Lokal im Berliner Publix vorgestellt.
+<span class="hl-blue">Berliner Bildungskrise: Die Klassenfrage. Der Tagesspiegel, August 2023 bis Frühjahr 2025</span>. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule muss, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Ich habe die Recherche auf der <a href="https://www.toepfer-stiftung.de/de/wie-wir-wirken/rueckblick/bildungswerkstatt-mit-correctiv-lokal">Bildungswerkstatt für Lokaljournalist*innen</a> der Toepfer Stiftung und Correctiv.Lokal im Berliner Publix vorgestellt.
 <br>
 <details>
 <summary> 
@@ -108,7 +118,7 @@ Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-w
 
 ---
 
-<span class="hl-blue">Neukölln Komplex. Dokumentarfilm.</span> Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. Für viele Betroffene ist klar: Ein rechtes Netzwerk mit Verbindungen in Polizei und Justiz verhindert die Auflärung. Seit 2022 befasst sich mit mit dem Komplex ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
+<span class="hl-blue">Neukölln Komplex. Dokumentarfilm.</span> Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. Für viele Betroffene ist klar: Ein rechtes Netzwerk mit Verbindungen in Polizei und Justiz verhindert die Aufklärung. Seit 2022 befasst sich mit dem Komplex ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
 <details>
 <summary> 
 <span class="text-purple">english version</span> 
@@ -120,20 +130,16 @@ Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-w
 
 ![Alt text for broken image link](assets/img/nkk.png)
 
----
+  </div>
 
-<span class="hl-purple">Ich habe außerdem darüber geschrieben </span>wie die EU versucht, ihre [Außengrenzen auf den afrikanischen Kontinent zu verschieben](https://www.sueddeutsche.de/politik/migrationspolitik-wie-europa-fluechtlinge-in-afrika-aufhalten-will-1.3314104); 
-ein [US-Bundesstaaten Abschiebungen verhindern wollte](https://www.sueddeutsche.de/politik/usa-wir-werden-kein-zahnrad-in-trumps-abschiebemaschine-sein-1.3351675) und wie [Donald Trump das versuchte zu untergraben](https://www.sueddeutsche.de/politik/abschiebungen-in-den-usa-trumps-angriff-auf-elf-millionen-1.3379310); warum [Afghanistan kein sicheres Herkunftsland ist](https://www.sueddeutsche.de/politik/abschiebung-nach-afghanistan-afghanistan-ist-zweifelsfrei-kein-sicheres-herkunftsland-1.3296536); wieso Matteo Renzi in Italien [mit seiner Verfassungsreform gescheitert ist](https://www.sueddeutsche.de/politik/italien-wieso-renzi-mit-seiner-verfassungsreform-gescheitert-ist-1.3280174), was die [Cinque Stelle möchten](https://www.sueddeutsche.de/politik/europaeisches-parlament-fuenf-sterne-und-die-liberalen-eine-absurde-allianz-1.3325639) und wie ein italienisches Geschwisterpaar [Politik und Wirschaft ausgespäht haben](https://www.sueddeutsche.de/politik/italien-spionagezentrale-in-rom-ausgehoben-1.3327575); über die Versuche, in Deutschland ein [öffentlichen Lobbyregister zu schaffen](https://www.sueddeutsche.de/politik/oeffentliches-lobbyregister-lobbyismus-muss-ueberwacht-werden-koennen-1.3360659); wie Russland und die USA [Wahlen beeinflussen](https://www.sueddeutsche.de/politik/wahlforscher-das-sollte-nicht-verharmlost-werden-1.3390497); warum Menschen in Rümänien [gegen Sorin Grindeanus demonstrieren](https://www.sueddeutsche.de/politik/proteste-gegen-regierung-warum-die-rumaenen-in-aufruhr-sind-1.3366611). 
+  <div class="tab-panel" role="tabpanel" id="tab-teaching" aria-labelledby="tab-teaching-btn" hidden markdown="1">
+  
+In the winter semester of 2022/23, I worked as a <span class="hl-purple">research associate</span> at Freie Universität Berlin, at the Otto-Suhr-Institute for Political Science, Chair of International Political Economy. 
 
-<br>
-
----
-
-# <span class="text-pink">lehre</span>
-In the winter semester of 2022/23, I worked as a research associate at Freie Universität Berlin, at the Otto Suhr Institute for Political Science, Chair of International Political Economy. I taught a course on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>.
+I taught a course on Critical Data Science. You can find more information below or by visiting the <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">course website</a>.
 <details>
 <summary> 
-<span class="text-pink">kursinfo</span> 
+<span class="text-pink">deutsch</span> 
 </summary> 
 <br>
 
@@ -145,12 +151,11 @@ Der Kurs Kritische Data Science vermittelt Grundkenntnisse des Programmierens so
 
 Aus einer intersektionalen, machtkritischen Perspektive untersucht der Kurs, welche sozialen Beziehungen und politischen Annahmen in Daten eingeschrieben sind, wer Daten über wen produziert – und wie Daten aus einer emanzipatorischen Perspektive genutzt werden können. Neben akademischer Literatur werden auch journalistische, künstlerische und aktivistische Projekte einbezogen.
 </details>
-
 <br>
 
 <details>
 <summary> 
-<span class="text-purple">english version</span> 
+<span class="text-purple">english</span> 
 </summary> 
 <br>
 <span class="hl-purple">How can quantitative data work be used for emancipatory scholarship?</span> What conditions are necessary for a critical engagement with data and quantitative methods?
@@ -158,10 +163,15 @@ Aus einer intersektionalen, machtkritischen Perspektive untersucht der Kurs, wel
 <br>
 
 This course is divided into two parts. In the first, students acquire basic programming skills in R and learn the collection, visualization, and analysis of data using the programming language R.
+
 <br>
 
 The second part focuses on the political economy of data. It examines how data practices are historically and politically entangled with power, inequality, and exclusion, and how quantitative methods have been used to govern, classify, and control. Through an intersectional, power-critical lens, the course asks whose perspectives are inscribed in data, who produces data about whom, and how data can be mobilized for emancipatory purposes. Alongside academic literature, the course engages with examples from journalism, activism, and the arts.
 <br>
 </details>
 
+  </div>
+</div>
 
+<br>
+<a href="#top">back to top</a>

@@ -33,5 +33,38 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll("[data-tabs]").forEach(function (tabs) {
+          var buttons = tabs.querySelectorAll('[role="tab"]');
+          var panels = tabs.querySelectorAll('[role="tabpanel"]');
+
+          function activate(button) {
+            buttons.forEach(function (btn) {
+              var isActive = btn === button;
+              btn.setAttribute("aria-selected", isActive ? "true" : "false");
+              var panelId = btn.getAttribute("aria-controls");
+              var panel = tabs.querySelector("#" + panelId);
+              if (panel) {
+                panel.toggleAttribute("hidden", !isActive);
+              }
+            });
+          }
+
+          buttons.forEach(function (btn) {
+            btn.addEventListener("click", function () {
+              activate(btn);
+            });
+          });
+
+          var current = Array.from(buttons).find(function (btn) {
+            return btn.getAttribute("aria-selected") === "true";
+          }) || buttons[0];
+          if (current) {
+            activate(current);
+          }
+        });
+      });
+    </script>
   </body>
 </html>
