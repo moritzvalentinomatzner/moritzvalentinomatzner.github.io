@@ -7,7 +7,7 @@ Hi there 🌸 My name is Moritz Valentino Matzner. I am a (data) journalist base
 
 <span class="hl-purple">I am interested in the political economy of data and in foreign policy</span>. My work focuses on stories that investigate the structural sources of inequality and broaden our imagination of what is politically feasible. 
 
-Methodologically, I combine quantitative analysis with reporting, using data to contextualize and interrogate anecdotal evidence.
+Methodologically, I <span class="hl-blue">combine quantitative analysis with reporting</span>, using data to contextualize and interrogate anecdotal evidence.
 <div class="tabs" data-tabs>
   <div class="tablist" role="tablist" aria-label="Sections">
     <button class="tab-btn" type="button" role="tab" id="tab-about-btn" aria-controls="tab-about" aria-selected="true">About</button>
@@ -17,15 +17,17 @@ Methodologically, I combine quantitative analysis with reporting, using data to 
 
   <div class="tab-panel" role="tabpanel" id="tab-about" aria-labelledby="tab-about-btn" markdown="1">
 
-As part of the Tagesspiegel Innovation Lab, <span class="hl-pink">my work has been recognized with</span> the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award for Local Reporting</a>. An investigation I co-researched was named one of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> in 2023 by the Global Investigative Journalism Network (GIJN). In March 2026, I will complete my two-year editorial traineeship at the German daily <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">Der Tagesspiegel</a>.
+As part of the Tagesspiegel Innovation Lab, <span class="hl-pink">my work has been recognized with</span> the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award for Local Reporting</a>. An investigation I co-researched was named one of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> in 2023 by the Global Investigative Journalism Network (GIJN). 
+
+In March 2026, I will complete my <span class="hl-purple">two-year editorial traineeship</span> at the German daily <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">Der Tagesspiegel</a>.
 <br>
 
-<span class="hl-blue">Before turning to journalism,</span> I worked as a research associate at Freie Universität Berlin and taught a course on <a href="#tab-teaching">Critical Data Science</a>. 
+<span class="hl-blue">Before turning to journalism,</span> I worked as a research associate at Freie Universität Berlin and taught a course on Critical Data Science. You can find more information about the class in the teachings tab. 
 
-I hold a Master’s degree in Political Science from Freie Universität Berlin and an MA in International Security from Sciences Po Paris. I also studied at the University of Chicago.
+I hold a <span class="hl-pink">Master in Political Science</span> from Freie Universität Berlin and a Masters in <span class="hl-pink">International Security</span> from Sciences Po Paris. I also attended the University of Chicago.
 <br>
 
-<span class="hl-purple">If you are interested in my work</span>, you can contact me via email by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can also reach me via encrypted Signal message by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span class="text-pink">mvm.404</span>. 
+<span class="hl-purple">If you are interested in my work</span>, you can contact me via email by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can reach me via encrypted Signal message by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span class="text-pink">mvm.404</span>. 
 <br>
 
 You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagram</a> and <a href="http://linkedin.com/in/moritzvalentino/">LinkedIn</a>. 
@@ -41,7 +43,7 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 
 <details>
 <summary> 
-<span class="text-purple">english version</span> 
+<span class="text-purple">english</span> 
 </summary> 
 <br>
 
@@ -58,7 +60,7 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 <br>
 <details>
 <summary> 
-<span class="text-purple">english version</span> 
+<span class="text-purple">english</span> 
 </summary> 
 <br>
 
@@ -74,7 +76,7 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 <br>
 <details>
 <summary> 
-<span class="text-purple">english version</span> 
+<span class="text-purple">english</span> 
 </summary> 
 <br>
 
@@ -91,7 +93,7 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 <br>
 <details>
 <summary> 
-<span class="text-purple">english version</span> 
+<span class="text-purple">english</span> 
 </summary> 
 <br>
 
@@ -107,7 +109,7 @@ Here you can find a <span class="hl-blue">selection of projects I enjoyed workin
 <br>
 <details>
 <summary> 
-<span class="text-purple">english version</span> 
+<span class="text-purple">english</span> 
 </summary> 
  <br>
 
@@ -124,7 +126,7 @@ Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-w
 <span class="hl-blue">Neukölln Komplex. Dokumentarfilm.</span> Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. Für viele Betroffene ist klar: Ein rechtes Netzwerk mit Verbindungen in Polizei und Justiz verhindert die Aufklärung. Seit 2022 befasst sich mit dem Komplex ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
 <details>
 <summary> 
-<span class="text-purple">english version</span> 
+<span class="text-purple">english</span> 
 </summary> 
 
 <span class="hl-purple">Neukölln Complex</span>. For years, a series of far-right attacks rocked Berlin’s Neukölln district. The attacks include more than 70 criminal offenses, including 23 arson attacks and at least two murders carried out in public spaces. For many of those affected, it is clear that a far-right network—with alleged connections to police and judicial authorities—has obstructed a full investigation. Since 2022, the case has been examined by a parliamentary inquiry committee in the Berlin House of Representatives. The film has been in production since summer 2021 as part of a long-term documentary project.  
@@ -154,7 +156,6 @@ Der Kurs Kritische Data Science vermittelt Grundkenntnisse des Programmierens so
 
 Aus einer intersektionalen, machtkritischen Perspektive untersucht der Kurs, welche sozialen Beziehungen und politischen Annahmen in Daten eingeschrieben sind, wer Daten über wen produziert – und wie Daten aus einer emanzipatorischen Perspektive genutzt werden können. Neben akademischer Literatur werden auch journalistische, künstlerische und aktivistische Projekte einbezogen.
 </details>
-<br>
 
 <details>
 <summary> 

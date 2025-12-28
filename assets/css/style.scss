@@ -98,6 +98,8 @@ body {
 .wrapper a[href^="http"]::after {
   content: " ↗";
   font-weight: inherit;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-variant-emoji: text;
 }
 
 .wrapper a {
