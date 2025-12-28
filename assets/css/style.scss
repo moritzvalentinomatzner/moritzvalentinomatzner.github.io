@@ -96,9 +96,10 @@ body {
 }
 
 .wrapper a[href^="http"]::after {
-  content: " ↗";
+  content: " ↗\FE0E";
   font-weight: inherit;
   font-family: "IBM Plex Sans", sans-serif;
+  font-variant-emoji: text;
 }
 
 .wrapper a {
