@@ -3,12 +3,11 @@ layout: default
 ---
 
 <a id="top"></a>
+Hi there 🌸 My name is Moritz Valentino Matzner. I am a (data) journalist based in Berlin.
 
-My name is Moritz Valentino Matzner. I am a (data) journalist based in Berlin.
+<span class="hl-purple">I am interested in the political economy of data and in foreign policy</span>. My work focuses on stories that investigate the structural sources of inequality and broaden our imagination of what is politically feasible. 
 
-<span class="hl-purple">I am interested in the political economy of data and in foreign policy</span>. My work focuses on stories that investigate the structural sources of inequality and broaden our imagination of what is politically feasible. Methodologically, I combine quantitative analysis with reporting, using data to contextualize and interrogate anecdotal evidence.
-<br>
-
+Methodologically, I combine quantitative analysis with reporting, using data to contextualize and interrogate anecdotal evidence.
 <div class="tabs" data-tabs>
   <div class="tablist" role="tablist" aria-label="Sections">
     <button class="tab-btn" type="button" role="tab" id="tab-about-btn" aria-controls="tab-about" aria-selected="true">About</button>
@@ -21,7 +20,9 @@ My name is Moritz Valentino Matzner. I am a (data) journalist based in Berlin.
 As part of the Tagesspiegel Innovation Lab, <span class="hl-pink">my work has been recognized with</span> the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award for Local Reporting</a>. An investigation I co-researched was named one of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> in 2023 by the Global Investigative Journalism Network (GIJN). In March 2026, I will complete my two-year editorial traineeship at the German daily <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">Der Tagesspiegel</a>.
 <br>
 
-<span class="hl-blue">Before turning to journalism,</span> I worked as a research associate at Freie Universität Berlin and taught a course on Critical Data Science. I hold a Master’s degree in Political Science from Freie Universität Berlin and an MA in International Security from Sciences Po Paris. I also studied at the University of Chicago.
+<span class="hl-blue">Before turning to journalism,</span> I worked as a research associate at Freie Universität Berlin and taught a course on <a href="#tab-teaching">Critical Data Science</a>. 
+
+I hold a Master’s degree in Political Science from Freie Universität Berlin and an MA in International Security from Sciences Po Paris. I also studied at the University of Chicago.
 <br>
 
 <span class="hl-purple">If you are interested in my work</span>, you can contact me via email by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can also reach me via encrypted Signal message by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span class="text-pink">mvm.404</span>. 
@@ -33,6 +34,8 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 
   <div class="tab-panel" role="tabpanel" id="tab-projects" aria-labelledby="tab-projects-btn" hidden markdown="1">
 
+Here you can find a <span class="hl-blue">selection of projects I enjoyed working on</span>. I mainly write in Deutsch but am keen to expand my work in English.
+ 
 <span class="hl-pink">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch ihre Grenzschützer von Frontex wurden jemals verurteilt. Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit einem Flugzeug an die Grenze Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Eine Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
 <br>
 
@@ -136,7 +139,7 @@ Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-w
   
 In the winter semester of 2022/23, I worked as a <span class="hl-purple">research associate</span> at Freie Universität Berlin, at the Otto-Suhr-Institute for Political Science, Chair of International Political Economy. 
 
-I taught a course on Critical Data Science. You can find more information below or by visiting the <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">course website</a>.
+I taught a course on <span class="hl-purple">Critical Data Science</span>. You can find more information below or by visiting the <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">course website</a>.
 <details>
 <summary> 
 <span class="text-pink">deutsch</span> 

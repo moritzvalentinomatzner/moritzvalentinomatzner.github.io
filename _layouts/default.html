@@ -15,10 +15,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><span class="text-pink">Moritz Valentino Donatello Matzner</span></h1>
+        <h1><span class="text-blue">Moritz Valentino Donatello Matzner</span></h1>
         <h3>(Data)Journalist, Berlin</h3>
         {% if site.logo %}
-        <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <img src="{{site.logo | relative_url}}" alt="Logo" class="logo-img" data-hover="{{ "/assets/img/logo_hover.png" | relative_url }}" />
       {% endif %}
       </header>
       <section>
@@ -39,7 +39,7 @@
           var buttons = tabs.querySelectorAll('[role="tab"]');
           var panels = tabs.querySelectorAll('[role="tabpanel"]');
 
-          function activate(button) {
+          function activate(button, updateHash) {
             buttons.forEach(function (btn) {
               var isActive = btn === button;
               btn.setAttribute("aria-selected", isActive ? "true" : "false");
@@ -49,21 +49,53 @@
                 panel.toggleAttribute("hidden", !isActive);
               }
             });
+            if (updateHash && button) {
+              var targetId = button.getAttribute("aria-controls");
+              if (targetId) {
+                history.replaceState(null, "", "#" + targetId);
+              }
+            }
           }
 
           buttons.forEach(function (btn) {
             btn.addEventListener("click", function () {
-              activate(btn);
+              activate(btn, true);
             });
           });
 
           var current = Array.from(buttons).find(function (btn) {
             return btn.getAttribute("aria-selected") === "true";
           }) || buttons[0];
+
+          if (location.hash) {
+            var hashTarget = tabs.querySelector(location.hash);
+            if (hashTarget) {
+              var hashButton = Array.from(buttons).find(function (btn) {
+                return btn.getAttribute("aria-controls") === hashTarget.id;
+              });
+              if (hashButton) {
+                current = hashButton;
+              }
+            }
+          }
           if (current) {
-            activate(current);
+            activate(current, false);
           }
         });
+
+        var logo = document.querySelector(".logo-img");
+        if (logo) {
+          var original = logo.getAttribute("src");
+          var hoverSrc = logo.getAttribute("data-hover");
+          if (hoverSrc) {
+            logo.addEventListener("mouseenter", function () {
+              logo.setAttribute("src", hoverSrc);
+            });
+            logo.addEventListener("mouseleave", function () {
+              logo.setAttribute("src", original);
+            });
+          }
+        }
       });
     </script>
   </body>
