@@ -2,3 +2,45 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+:root {
+  --mv-blue: #1F0BFB;
+  --mv-purple: #682BED;
+  --mv-pink: #C92BED;
+  --mv-highlight: #FAF9F6;
+  --mv-link: #EDC92B;
+  --mv-link-hover: blue;
+  --mv-link-hover-bg: lightpink;
+}
+
+a {
+  color: var(--mv-link);
+  text-decoration: underline;
+  text-decoration-thickness: 0.01px;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+a:hover {
+  color: var(--mv-link-hover);
+  background-color: var(--mv-link-hover-bg);
+}
+
+.text-blue { color: var(--mv-blue); }
+.text-purple { color: var(--mv-purple); }
+.text-pink { color: var(--mv-pink); }
+
+.hl-blue {
+  color: var(--mv-blue);
+  background-color: var(--mv-highlight);
+}
+
+.hl-purple {
+  color: var(--mv-purple);
+  background-color: var(--mv-highlight);
+}
+
+.hl-pink {
+  color: var(--mv-pink);
+  background-color: var(--mv-highlight);
+}
