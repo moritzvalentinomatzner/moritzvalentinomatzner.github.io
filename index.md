@@ -36,8 +36,10 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 
   <div class="tab-panel" role="tabpanel" id="tab-projects" aria-labelledby="tab-projects-btn" hidden markdown="1">
 
-An <span class="hl-purple">overview of my articles</span> can be found <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">here</a>. Below, you can find a <span class="hl-purple">selection of projects I enjoyed working on</span>. I mainly write in German but am keen to expand my work in English.
- 
+Below, you can find a <span class="hl-purple">selection of projects I enjoyed working on</span>. An <span class="hl-purple">overview of my articles</span> is available <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">here</a>. I mainly write in German but am keen to expand my work in English.
+
+---
+
 <span class="hl-pink">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch ihre Grenzschützer von Frontex wurden jemals verurteilt. 
 
 Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit einem Flugzeug an die Grenze Libyens geflogen und habe die libysche Küstenwache und Frontex bei ihrer Arbeit beobachtet. Eine Reportage über die Externalisierung der EU-Außengrenzen als rechtliche Strategie, um sich <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html">Gerichten zu entziehen</a>. 
