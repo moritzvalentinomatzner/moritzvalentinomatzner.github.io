@@ -5,7 +5,7 @@ layout: default
 <a id="top"></a>
 My name is Moritz Valentino Matzner. I am a (data) journalist based in Berlin.
 
-<span class="hl-purple">I am interested in the political economy of data and in foreign policy</span>. My work focuses on stories that investigate the structural sources of inequality and broaden our imagination of what is politically feasible. 
+I am interested in the <span class="hl-purple">political economy of data and foreign policy</span>. My work focuses on investigating the structural sources of inequality and expanding our sense of what is politically feasible.
 
 Methodologically, I often <span class="hl-purple">combine quantitative analysis with reporting</span>, using data to contextualize and interrogate anecdotal evidence.
 <div class="tabs" data-tabs>
@@ -24,10 +24,10 @@ In March 2026, I will complete my <span class="hl-purple">two-year editorial tra
 
 <span class="hl-purple">Before turning to journalism,</span> I worked as a research associate at Freie Universität Berlin and taught a course on Critical Data Science. You can find more information about the class in the teachings tab. 
 
-I hold a <span class="hl-purple">Master in Political Science</span> from Freie Universität Berlin and a Masters in <span class="hl-purple">International Security</span> from Sciences Po Paris. I also attended the University of Chicago.
+I hold a <span class="hl-purple">Master in Political Science</span> from Freie Universität Berlin and a Master in <span class="hl-purple">International Security</span> from Sciences Po Paris. I also attended the University of Chicago.
 <br>
 
-<span class="hl-purple">I am always interested in meeting new people.</span> You can contact me via email by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can reach me via encrypted Signal message by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span class="text-pink">mvm.404</span>. 
+I am always open to <span class="hl-purple">collaborating on new projects.</span> You can contact me via email by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can reach me via encrypted Signal message by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span class="text-pink">mvm.404</span>. 
 <br>
 
 You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagram</a> and <a href="http://linkedin.com/in/moritzvalentino/">LinkedIn</a>. 
