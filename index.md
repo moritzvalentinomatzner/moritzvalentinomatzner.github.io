@@ -17,7 +17,7 @@ Methodologically, I often <span class="hl-purple">combine quantitative analysis 
 
   <div class="tab-panel" role="tabpanel" id="tab-about" aria-labelledby="tab-about-btn" markdown="1">
 
-As part of the Tagesspiegel Innovation Lab, <span class="hl-pink">my work has been recognized with</span> the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award for Local Reporting</a>. An investigation I co-researched was named one of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> in 2023 by the Global Investigative Journalism Network (GIJN). 
+As part of the Tagesspiegel Innovation Lab, <span class="hl-purple">my work has been recognized with</span> the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> and the <a href="https://www.tagesspiegel.de/berlin/schule/interaktive-serie-uber-lehrermangel-in-berlin-tagesspiegel-gewinnt-deutschen-lokaljournalistenpreis-der-adenauer-stiftung-12644579.html">German Award for Local Reporting</a>. An investigation I co-researched was named one of the <a href="https://gijn.org/stories/2023-best-investigative-stories-german/">best investigative stories in German</a> in 2023 by the Global Investigative Journalism Network (GIJN). 
 
 In March 2026, I will complete my <span class="hl-purple">two-year editorial traineeship</span> at the German daily <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">Der Tagesspiegel</a>.
 <br>
@@ -36,7 +36,7 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 
   <div class="tab-panel" role="tabpanel" id="tab-projects" aria-labelledby="tab-projects-btn" hidden markdown="1">
 
-Here you can find a <span class="hl-purple">selection of projects I enjoyed working on</span>. I mainly write in German but am keen to expand my work in English.
+An <span class="hl-purple">overview of my articles</span> can be found <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">here</a>. Below, you can find a <span class="hl-purple">selection of projects I enjoyed working on</span>. I mainly write in German but am keen to expand my work in English.
  
 <span class="hl-pink">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch ihre Grenzschützer von Frontex wurden jemals verurteilt. 
 
@@ -119,11 +119,7 @@ Mit einer Onlineplattform wurden tausende Kita-Mitarbeitende und Eltern befragt,
 ![Alt text for broken image link](assets/img/correctiv.png)
 <span class="caption-12">Screenshot: Correctiv</span>
 
----
 
-More articles can be found <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner" >2025</span>here</a>. 
-
-In 2024
 
 
 
@@ -138,7 +134,7 @@ I taught a course on <span class="hl-purple">Critical Data Science</span>. You c
 <br>
 <details>
 <summary> 
-<span class="text-pink">deutsch</span> 
+<span class="text-purple">deutsch</span> 
 </summary> 
 <br>
 
