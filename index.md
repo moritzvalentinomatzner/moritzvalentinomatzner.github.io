@@ -3,16 +3,16 @@ layout: default
 ---
 
 <a id="top"></a>
-Hi there 🌸 My name is Moritz Valentino Matzner. I am a (data) journalist based in Berlin.
+My name is Moritz Valentino Matzner. I am a (data) journalist based in Berlin.
 
 <span class="hl-purple">I am interested in the political economy of data and in foreign policy</span>. My work focuses on stories that investigate the structural sources of inequality and broaden our imagination of what is politically feasible. 
 
-Methodologically, I often <span class="hl-blue">combine quantitative analysis with reporting</span>, using data to contextualize and interrogate anecdotal evidence.
+Methodologically, I often <span class="hl-purple">combine quantitative analysis with reporting</span>, using data to contextualize and interrogate anecdotal evidence.
 <div class="tabs" data-tabs>
   <div class="tablist" role="tablist" aria-label="Sections">
-    <button class="tab-btn" type="button" role="tab" id="tab-about-btn" aria-controls="tab-about" aria-selected="true">About</button>
-    <button class="tab-btn" type="button" role="tab" id="tab-projects-btn" aria-controls="tab-projects" aria-selected="false">Projects</button>
-    <button class="tab-btn" type="button" role="tab" id="tab-teaching-btn" aria-controls="tab-teaching" aria-selected="false">Teaching</button>
+    <button class="tab-btn" type="button" role="tab" id="tab-about-btn" aria-controls="tab-about" aria-selected="true">about</button>
+    <button class="tab-btn" type="button" role="tab" id="tab-projects-btn" aria-controls="tab-projects" aria-selected="false">writing</button>
+    <button class="tab-btn" type="button" role="tab" id="tab-teaching-btn" aria-controls="tab-teaching" aria-selected="false">teaching</button>
   </div>
 
   <div class="tab-panel" role="tabpanel" id="tab-about" aria-labelledby="tab-about-btn" markdown="1">
@@ -22,9 +22,9 @@ As part of the Tagesspiegel Innovation Lab, <span class="hl-pink">my work has be
 In March 2026, I will complete my <span class="hl-purple">two-year editorial traineeship</span> at the German daily <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner">Der Tagesspiegel</a>.
 <br>
 
-<span class="hl-blue">Before turning to journalism,</span> I worked as a research associate at Freie Universität Berlin and taught a course on Critical Data Science. You can find more information about the class in the teachings tab. 
+<span class="hl-purple">Before turning to journalism,</span> I worked as a research associate at Freie Universität Berlin and taught a course on Critical Data Science. You can find more information about the class in the teachings tab. 
 
-I hold a <span class="hl-pink">Master in Political Science</span> from Freie Universität Berlin and a Masters in <span class="hl-pink">International Security</span> from Sciences Po Paris. I also attended the University of Chicago.
+I hold a <span class="hl-purple">Master in Political Science</span> from Freie Universität Berlin and a Masters in <span class="hl-purple">International Security</span> from Sciences Po Paris. I also attended the University of Chicago.
 <br>
 
 <span class="hl-purple">I am always interested in meeting new people.</span> You can contact me via email by clicking <a href="mailto:moritzvalentinomatzner@posteo.net">here</a>. You can reach me via encrypted Signal message by clicking on <a href="https://signal.me/#eu/WlK3PXx3vXFN0SJ8kiJfcfyQThRoLVemldrSk650jfXpvc5yC-VMmbWvttsWYl33">this link</a>. My username is <span class="text-pink">mvm.404</span>. 
@@ -36,7 +36,7 @@ You can also find me on <a href="http://instagram.com/moritzvalentino_/">Instagr
 
   <div class="tab-panel" role="tabpanel" id="tab-projects" aria-labelledby="tab-projects-btn" hidden markdown="1">
 
-Here you can find a <span class="hl-blue">selection of projects I enjoyed working on</span>. I mainly write in German but am keen to expand my work in English.
+Here you can find a <span class="hl-purple">selection of projects I enjoyed working on</span>. I mainly write in German but am keen to expand my work in English.
  
 <span class="hl-pink">An der Grenze des Rechts. Der Tagesspiegel. August 2025.</span> Verstößt die EU in ihrem Kampf gegen Migration im zentralen Mittelmeer gegen internationales Recht? Nein, sagen internationale Gerichte. Denn weder die EU-Kommission noch ihre Grenzschützer von Frontex wurden jemals verurteilt. 
 
@@ -71,7 +71,7 @@ Entstanden ist ein umfangreiches Dossier, das sich in acht Kapiteln dem US-Waffe
 </summary> 
 <br>
 
-<span class="hl-blue">European Weapons in the US</span>. More than 40,000 people die each year in the United States as a result of gun violence — a tragedy that represents a multibillion-dollar market for European arms manufacturers. A joint team from Der Tagesspiegel and ZDF Magazin Royale analyzed documents, collected data, interviewed experts and insiders, and spoke with survivors of mass shootings in the US. The result is an extensive dossier that explores the US gun culture and its European profiteers across eight chapters, introduced by a visually compelling, data-driven presentation of the investigation’s findings. Awarded the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> in the Information category. Link to the <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">investigation</a>.
+<span class="hl-purple">European Weapons in the US</span>. More than 40,000 people die each year in the United States as a result of gun violence — a tragedy that represents a multibillion-dollar market for European arms manufacturers. A joint team from Der Tagesspiegel and ZDF Magazin Royale analyzed documents, collected data, interviewed experts and insiders, and spoke with survivors of mass shootings in the US. The result is an extensive dossier that explores the US gun culture and its European profiteers across eight chapters, introduced by a visually compelling, data-driven presentation of the investigation’s findings. Awarded the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> in the Information category. Link to the <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">investigation</a>.
 <br>
 </details>
 <br>
@@ -80,7 +80,7 @@ Entstanden ist ein umfangreiches Dossier, das sich in acht Kapiteln dem US-Waffe
 
 --- 
 
-<span class="hl-blue">Berliner Bildungskrise: Die Klassenfrage. Der Tagesspiegel, August 2023 bis Frühjahr 2025</span>. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten?
+<span class="hl-purple">Berliner Bildungskrise: Die Klassenfrage. Der Tagesspiegel, August 2023 bis Frühjahr 2025</span>. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten?
 
 Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule muss, hat schlechtere Chancen auf eine vernünftige Ausbildung. 
 
@@ -112,34 +112,19 @@ Mit einer Onlineplattform wurden tausende Kita-Mitarbeitende und Eltern befragt,
 </summary> 
 <br>
 
-<span class="hl-blue">Kita Notstand</span>. Not only public schools, but also the German pre-school system is in crisis. According to a recent study, more than 380.000 spots are missing and the system is short of roughly 100.000 educators. We surveyed more than 6.800 teachers and parents. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>.
+<span class="hl-purple">Kita Notstand</span>. Not only public schools, but also the German pre-school system is in crisis. According to a recent study, more than 380.000 spots are missing and the system is short of roughly 100.000 educators. We surveyed more than 6.800 teachers and parents. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>.
 </details>
 <br>
 
 ![Alt text for broken image link](assets/img/correctiv.png)
 <span class="caption-12">Screenshot: Correctiv</span>
 
---- 
+---
 
-<span class="hl-pink">Demo Atlas. Der Tagesspiegel. Oktober 2023.</span> Ob Aufmarsch Hunderttausender oder Ein-Mann-Kundgebung: Im Schnitt gibt es täglich 16 Demos in Berlin. Wer demonstriert in Ihrer Nachbarschaft – und wofür? 
+More articles can be found <a href="http://tagesspiegel.de/autoren/moritz-valentino-matzner" >2025</span>here</a>. 
 
-Die Transparenz-Initiative „FragDenStaat“ hat Daten zu Demonstrationen per Informationsfreiheitsanfrage von der Berliner Polizei erhalten. Das Tagesspiegel Innovation Lab hat sie ausgewertet und Berlins Protestlandschaft kartografiert. Link zur [Karte](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/) und [Analyse](https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/). Datenverarbeitung und -analyse. Keine Paywall.
-<br>
-<details>
-<summary> 
-<span class="text-purple">english</span> 
-</summary> 
- <br>
+In 2024
 
- <span class="hl-pink">Demo Atlas. Der Tagesspiegel, October 2023.</span>
-Whether a march of hundreds of thousands or a one-person protest, on average there are 16 demonstrations per day in Berlin. Who is protesting in your neighborhood and what for?
-The transparency initiative FragDenStaat obtained demonstration data from the Berlin police through freedom of information requests. The Tagesspiegel Innovation Lab analyzed the data and mapped Berlin’s protest landscape.
-Links to the <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">interactive map</a> and the <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. Data processing and analysis. No paywall.
-</details>
-<br>
-
-![Alt text for broken image link](assets/img/demoatlas.png)
-<span class="caption-12">Screenshot: Der Tagesspiegel</span>
 
 
   </div>
