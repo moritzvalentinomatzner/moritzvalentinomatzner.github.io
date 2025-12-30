@@ -5,7 +5,7 @@ layout: default
 <a id="top"></a>
 My name is Moritz Valentino Matzner. I am a (data) journalist based in Berlin.
 
-I am interested in the <span class="hl-purple">political economy of data and foreign policy</span>. My work focuses on investigating the structural sources of inequality and expanding our sense of what is politically feasible.
+I am interested in the intersection of<span class="hl-purple">political economy, technology, and foreign policy</span>. My work focuses on investigating the structural sources of inequality and expanding our sense of what is politically feasible.
 
 Methodologically, I often <span class="hl-purple">combine quantitative analysis with reporting</span>, using data to contextualize and interrogate anecdotal evidence.
 <div class="tabs" data-tabs>
