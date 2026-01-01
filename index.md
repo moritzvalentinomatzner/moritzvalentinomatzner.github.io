@@ -53,7 +53,7 @@ Ist also alles ok, im zentralen Mittelmeer? Um das herauszufinden, bin ich mit e
 
 <span class="hl-purple">Investigating Frontex legal responsibility in the Mediterranean</span>. I traveled to Lampedusa and deployed by air to international waters off Libya to investigate how Libyan and European actors enforce the EU's external border in the central Mediterranean. 
 
-My narrative piece focused on the externalization of borders as a legal strategy and integrated a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread</a>.  
+My narrative piece focused on the externalization of borders as a legal strategy and resulted in a visual investigation including on-site video interviews. <a href="https://www.tagesspiegel.de/internationales/macht-sich-die-eu-im-mittelmeer-strafbar-mit-dem-flugzeug-an-die-grenze-des-rechts-14058410.html"> Longread</a>.  
 <br>
 
 </details>
@@ -73,7 +73,7 @@ Entstanden ist ein umfangreiches Dossier, das sich in acht Kapiteln dem US-Waffe
 </summary> 
 <br>
 
-<span class="hl-purple">European Weapons in the US</span>. More than 40,000 people die each year in the United States as a result of gun violence — a tragedy that represents a multibillion-dollar market for European arms manufacturers. A joint team from Der Tagesspiegel and ZDF Magazin Royale analyzed documents, collected data, interviewed experts and insiders, and spoke with survivors of mass shootings in the US. The result is an extensive dossier that explores the US gun culture and its European profiteers across eight chapters, introduced by a visually compelling, data-driven presentation of the investigation’s findings. Awarded the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> in the Information category. Link to the <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">investigation</a>.
+<span class="hl-purple">European Weapons in the US</span>. More than 40,000 people die each year in the United States as a result of gun violence — a tragedy that represents a multibillion-dollar market for European arms manufacturers. Together with the ZDF Magazin Royale we analyzed documents, collected data, interviewed experts and insiders, and spoke with survivors of mass shootings in the US. The result is an extensive dossier that explores the US gun culture and its European profiteers across eight chapters, introduced by a visually compelling, data-driven presentation of the investigation’s findings. Awarded the <a href="https://www.grimme-online-award.de/archiv/2024/preistraeger/preistraeger-detail/d/europaeische-waffen-amerikanische-opfer-1">Grimme Online Award</a> in the Information category. Link to the <a href="https://interaktiv.tagesspiegel.de/waffen/europaeische-waffen-amerikanische-opfer/">investigation</a>.
 <br>
 </details>
 <br>
