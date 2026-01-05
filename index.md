@@ -153,6 +153,7 @@ Der Kurs Kritische Data Science vermittelt Grundkenntnisse des Programmierens so
 Wir untersuchen aus einer intersektionalen Perspektive, welche sozialen Beziehungen und politische Annahmen in Daten eingeschrieben sind. Neben akademischer Literatur werden auch journalistische, künstlerische und aktivistische Projekte einbezogen.
 
 <br>
+<br>
 
 </details>
 <details>
