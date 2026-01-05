@@ -140,39 +140,41 @@ I taught a course on <span class="hl-purple">Critical Data Science</span>. You c
 </summary> 
 <br>
 
-<span class="hl-purple">Wie kann quantitative Datenarbeit für emanzipatorische Wissenschaft genutzt werden? </span>Unter welchen Bedingungen ist eine kritische Auseinandersetzung mit Daten und quantitativen Methoden möglich?
+<span class="hl-purple">Wie kann quantitative Datenarbeit für emanzipatorische Wissenschaft genutzt werden? </span>Wie können Daten und quantitativen Methoden kritisch hinterfragt werden? 
 
 <br>
 <br>
 
-Der Kurs Kritische Data Science vermittelt Grundkenntnisse des Programmierens sowie des Sammelns, Visualisierens und Analysierens von Daten in der Skriptsprache R. Zugleich thematisiert er die politische Geschichte quantitativer Methoden: Datenarbeit ist eng mit Macht, Diskriminierung und Herrschaft verwoben und wurde historisch vor allem als Instrument der Mächtigen eingesetzt.
+Der Kurs Kritische Data Science vermittelt Grundkenntnisse des Programmierens sowie des Sammelns, Visualisierens und Analysierens von Daten in der Skriptsprache R. Zugleich thematisiert er die politische Geschichte quantitativer Methoden: Datenarbeit ist eng mit Macht, Diskriminierung und Herrschaft verwoben und wurde historisch vor allem als Instrument der Mächtigen eingesetzt. 
 
 <br>
 <br>
 
-Aus einer intersektionalen, machtkritischen Perspektive untersucht der Kurs, welche sozialen Beziehungen und politischen Annahmen in Daten eingeschrieben sind, wer Daten über wen produziert – und wie Daten aus einer emanzipatorischen Perspektive genutzt werden können. Neben akademischer Literatur werden auch journalistische, künstlerische und aktivistische Projekte einbezogen.
+Wir untersuchen aus einer intersektionalen Perspektive, welche sozialen Beziehungen und politische Annahmen in Daten eingeschrieben sind. Neben akademischer Literatur werden auch journalistische, künstlerische und aktivistische Projekte einbezogen.
+
 </details>
 <details>
 <summary> 
 <span class="text-purple">english</span> 
 </summary> 
 <br>
-<span class="hl-purple">How can quantitative data work be used for emancipatory scholarship?</span> What conditions are necessary for a critical engagement with data and quantitative methods?
+<span class="hl-purple">How can we critically engage with data and quantitative methods?</span> 
 
 <br>
 <br>
 
-This course is divided into two parts. In the first, students acquire basic programming skills in R and learn the collection, visualization, and analysis of data using the programming language R.
+The class Critical Data Science is divided into two parts. First students acquire basic programming skills in R and learn how to collect, visualize and analyze data. 
 
 <br>
 <br>
 
-The second part focuses on the political economy of data. It examines how data practices are historically and politically entangled with power, inequality, and exclusion, and how quantitative methods have been used to govern, classify, and control. 
+Then, the class focuses on the political economy of data. It examines how quantitative methods are historically and politically entangled with power, inequality, and exclusion, and how data has been used to govern, classify, and control. 
 
 <br>
 <br>
 
-Through an intersectional, power-critical lens, the course asks whose perspectives are inscribed in data, who produces data about whom, and how data can be mobilized for emancipatory purposes. Alongside academic literature, the course engages with examples from journalism, activism, and the arts.
+Through an intersectional lens, the course encourages to students to understand data as institutional artifacts. We ask, whose perspectives are inscribed in data, who produces data about whom, and how data can be mobilized from a critical perspective. Alongside academic literature, the course engages with examples from journalism, activism, and the arts.
+
 <br>
 </details>
 
